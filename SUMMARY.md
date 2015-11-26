@@ -4,4 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Prerequisites](prerequisites.md)
    * [Create Craigslist Account](create_craigslist_account.md)
+* Settings
 
