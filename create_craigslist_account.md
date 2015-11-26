@@ -7,4 +7,9 @@
 ![Confirmation](confirm.png)
 
 Check your email for Craigslist confirmation
-![Email Confirmation](confirm2.png)
+![Email Confirmation](confirm3.png)
+Click the link in the email.
+
+Choose a password.
+![Choose Password](password.png)
+
