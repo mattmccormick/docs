@@ -6,10 +6,10 @@
 
 ![Confirmation](confirm.png)
 
-**Check your email for Craigslist confirmation**
+**Check your email for Craigslist confirmation & click the link in the email.**
 
 ![Email Confirmation](confirm3.png)
-**Click the link in the email.**
+
 
 **Choose a password.**
 ![Choose Password](password.png)
