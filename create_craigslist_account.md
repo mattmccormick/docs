@@ -13,3 +13,4 @@ Click the link in the email.
 Choose a password.
 ![Choose Password](password.png)
 
+![Success](success.png)
