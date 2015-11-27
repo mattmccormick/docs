@@ -16,4 +16,10 @@ div.book-header h1 {
  }
 div.book-header h1 a {
     text-decoration: none;
+    position: absolute;
+    
+}
+div.book-header h1 a:after {
+    content : 'Rooof User Manual';
+    position: relative;
 }
