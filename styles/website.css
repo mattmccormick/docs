@@ -12,4 +12,5 @@ div.book-body div div.book-header {
 }
 div.book-body div div.book-header h1 {
   color: #000;
+  -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), color-stop(50%, rgba(0,0,0,.5)), to(rgba(0,0,0,1)));
 }
