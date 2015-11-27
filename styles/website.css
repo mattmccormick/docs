@@ -2,8 +2,11 @@
 .book .book-summary ul.summary{
     transition: all 0.5s ease;
     color: white;
-    background-color: #0495c2;
 }
 .book .book-summary ul.summary li a:hover {
     color: #444343;
+}
+/* header section */
+div.book-body div div.book-header {
+    background-color: #0495c2;
 }
