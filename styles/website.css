@@ -2,6 +2,7 @@
 .book .book-summary ul.summary li a {
     transition: all 0.5s ease;
     color: white;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
 }
 .book .book-summary ul.summary li a:hover {
     color: #bfbfbf;
