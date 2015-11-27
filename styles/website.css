@@ -11,13 +11,13 @@ div.book-body div div.book-header {
     background-color: #0495c2;
 }
 div.book-header h1 {
-  color: #000;
+  color: #fff;
   position: relative;
  }
 div.book-header h1 a {
     text-decoration: none;
     position: absolute;
-    
+     -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
 }
 div.book-header h1 a:after {
     content : 'Rooof User Manual';
