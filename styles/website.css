@@ -3,13 +3,16 @@
     transition: all 0.5s ease;
     color: white;
 }
-.book .book-summary ul.summary li a:hover {
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li articles a:hover {
     color: #444343;
 }
-.book .book-summary ul.summary li a:visited {
+.book .book-summary ul.summary li a:visited,
+.book .book-summary ul.summary li articles a:visited {
     color: #fff;
 }
-.book .book-summary ul.summary li a:active {
+.book .book-summary ul.summary li a:active,
+.book .book-summary ul.summary li articles a:active {
     color: #fff;
 }
 .book .book-summary ul.summary {
