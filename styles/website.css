@@ -3,24 +3,3 @@
     transition: all 0.5s ease;
     color: white;
 }
-.book .book-summary ul.summary a:hover {
-    color: #444343;
-}
-.book .book-summary ul.summary a:visited {
-    color: #fff;
-}
-.book .book-summary ul.summary a:active {
-    color: #fff;
-}
-.book .book-summary ul.summary {
-    
-    background-color: #0495c2;
-}
-/* header section */
-div.book-body div div.book-header {
-    background-color: #4fb4d4;
-}
-div.book-body div div.book-header h1 {
-  
-    
-}
