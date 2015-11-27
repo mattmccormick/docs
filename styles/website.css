@@ -12,4 +12,8 @@ div.book-body div div.book-header {
 }
 div.book-header h1 {
   color: #000;
-  }
+  position: relative;
+ }
+div.book-header h1 a {
+    text-decoration: none;
+}
