@@ -1,5 +1,5 @@
 /* CSS for website */
-.book .book-summary ul.summary {
+.book .book-summary ul.summary li {
     transition: all 0.5s ease;
     color: white;
 }
