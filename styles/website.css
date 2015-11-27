@@ -15,6 +15,7 @@ div.book-header h1 {
     text-decoration: none;
 }
 .book .book-body .page-wrapper, 
-.book .book-body, .book .book-body .body-inner {
+.book .book-body, .book .book-body .body-inner,
+.book .book-body .page-wrapper .page-inner {
    background-color:#EDECE4;
 }
