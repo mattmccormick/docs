@@ -1,10 +1,10 @@
 /* CSS for website */
 .book .book-summary ul.summary li {
     transition: all 0.5s ease;
-    color: white;
+    color: #444343;
 }
 .book .book-summary ul.summary li a:hover {
-    color: #444343;
+    color: #fff;
 }
 /* header section */
 div.book-body div div.book-header {
