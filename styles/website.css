@@ -10,3 +10,6 @@
 div.book-body div div.book-header {
     background-color: #0495c2;
 }
+div.book-body div div.book-header h1 {
+  color: #000;
+}
