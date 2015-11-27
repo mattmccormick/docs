@@ -1,15 +1,15 @@
 /* CSS for website */
-.book .book-summary ul.summary li {
+.book .book-summary ul.summary{
     transition: all 0.5s ease;
     color: white;
 }
-.book .book-summary ul.summary li a:hover {
+.book .book-summary ul.summary a:hover {
     color: #444343;
 }
-.book .book-summary ul.summary li a:visited {
+.book .book-summary ul.summary a:visited {
     color: #fff;
 }
-.book .book-summary ul.summary li a:active {
+.book .book-summary ul.summary a:active {
     color: #fff;
 }
 .book .book-summary ul.summary {
