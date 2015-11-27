@@ -3,3 +3,6 @@
     transition: all 0.5s ease;
     color: white;
 }
+.book .book-summary ul.summary a:hover {
+    color: #444343;
+}
