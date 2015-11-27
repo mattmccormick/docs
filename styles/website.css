@@ -2,6 +2,9 @@
 .book .book-summary ul.summary li a {
     color: white;
 }
+.book .book-summary ul.summary li a:hover {
+    color: green;
+}
 .book .book-summary ul.summary {
     
     background-color: #0495c2;
