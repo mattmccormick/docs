@@ -16,17 +16,11 @@
     
     background-color: #0495c2;
 }
-div.book-summary nav ul li:nth-child(1) a {
-    
-}
+/* header section */
 div.book-body div div.book-header {
     background-color: #4fb4d4;
 }
 div.book-body div div.book-header h1 {
   
-
     
-}
-div.book-summary nav ul {
-    list-style-type: circle;
 }
