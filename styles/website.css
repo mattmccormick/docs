@@ -11,8 +11,8 @@ div.book-body div div.book-header {
     background-color: #0495c2;
 }
 div.book-header h1 {
-    font-color: #fff;
-  text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 .book .book-body .page-wrapper, 
 .book .book-body, .book .book-body .body-inner {
