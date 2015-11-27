@@ -1,4 +1,5 @@
 /* CSS for website */
 .book .book-summary ul.summary li a {
     background-color: #0495c2;
+    color: white;
 }
