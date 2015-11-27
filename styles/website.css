@@ -11,6 +11,6 @@ div.book-body div div.book-header {
     background-color: #0495c2;
 }
 div.book-header h1 {
-  color: #fff;
+  color: inherit;
   text-decoration: none;
 }
