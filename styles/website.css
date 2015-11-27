@@ -4,7 +4,7 @@
     color: white;
     text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
 }
-.book .book-summary ul.summary li a:hover {
+.book .book-summary ul.summary li a:hover a:visited {
     color: #bfbfbf;
 }
 .book .book-summary ul.summary {
