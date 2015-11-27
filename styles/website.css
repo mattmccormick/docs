@@ -1,7 +1,7 @@
 /* CSS for website */
 .book .book-summary ul.summary li {
     transition: all 0.5s ease;
-    color: #444343;
+    color: #d5d4cd;
 }
 .book .book-summary ul.summary li a:hover {
     color: #a1a1a1;
