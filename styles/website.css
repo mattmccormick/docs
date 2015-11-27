@@ -6,6 +6,12 @@
 .book .book-summary ul.summary li a:hover {
     color: #e5e2e2;
 }
+.book .book-summary ul.summary li a:visited {
+    color: #e5e2e2;
+}
+.book .book-summary ul.summary li a:active {
+    color: #e5e2e2;
+}
 .book .book-summary ul.summary {
     
     background-color: #0495c2;
