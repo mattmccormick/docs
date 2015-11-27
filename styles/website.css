@@ -22,10 +22,5 @@ div.book-body div div.book-header h1 {
     
 }
 div.book-summary nav ul {
-    counter-reset: li; /* Initiate a counter */
-    list-style: none; /* Remove default numbering */
-    *list-style: decimal; /* Keep using default numbering for IE6/7 */
-    padding: 0;
-    margin-bottom: 4em;
-    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    list-style-type: circle;
 }
