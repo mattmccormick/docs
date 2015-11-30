@@ -39,7 +39,7 @@ content:"\00a0";
 display: block;
  
 /*adding an 8px round border to a 0x0 element creates an 8px circle*/
-border: solid 9px #000;
+border: solid 9px #0495c2;
 border-radius: 9px;
 -moz-border-radius: 9px;
 -webkit-border-radius: 9px;
