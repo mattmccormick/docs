@@ -26,3 +26,8 @@ div.book-header h1 {
 .book .book-body .page-wrapper .page-inner {
    background-color:#EDECE4;
 }
+body:nth-of-type(1) ul li{
+list-style-type:none;
+padding: 0 0 0 45px;
+position:relative;
+}
