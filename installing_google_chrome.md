@@ -3,6 +3,7 @@
 [Download the installer file here](https://www.google.com/chrome?brand=CHMO#eula)
 
 A page similar to the one below will be shown.
+
 ![Terms of service google installer](1.png)
 
 If prompted, click Run.
