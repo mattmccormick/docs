@@ -10,9 +10,9 @@
 
 
 
-![Craiglist Signup](signup2.png)
+![Craiglist Signup](signup3.png)
 
-![Confirmation](confirm.png)
+![Confirmation](new-confirm.png)
 
 ---
 
