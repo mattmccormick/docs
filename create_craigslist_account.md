@@ -1,6 +1,6 @@
 # Create Craigslist Account
 
-[Click here for Craigslist signup page](https://accounts.craigslist.org/signup/)
+[Click here for Craigslist sign-up page](https://accounts.craigslist.org/signup/)
 
 ---
 
