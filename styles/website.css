@@ -26,3 +26,6 @@ div.book-header h1 {
 .book .book-body .page-wrapper .page-inner {
    background-color:#EDECE4;
 }
+page-inner img {
+    box-shadow: 10px 10px 5px #888888;
+}
