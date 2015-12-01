@@ -5,7 +5,7 @@
 A page similar to the one below will be shown.
 ![Terms of service google installer](1.png)
 
-If prompted, click Run or Save.
+If prompted, click Run.
 
 To start Chrome:
 * Windows 7/Vista: A Chrome window opens once everything is set up.
