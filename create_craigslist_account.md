@@ -19,17 +19,17 @@
 ### Confirmation
 **Check your email for Craigslist confirmation & click the link in the email.**
 
-![Email Confirmation](confirm3.png)
+![Email Confirmation](confirm4.png)
 
 ---
 
 ### Password 
 **Choose a password.**
-![Choose Password](password.png)
+![Choose Password](password1.png)
 
 
 
-![Success](success.png)
+![Success](success1.png)
 **Success!**
 
 > Any problems please email us at Help@rooof.com
