@@ -27,5 +27,5 @@ div.book-header h1 {
    background-color:#EDECE4;
 }
 div.book-body div div.page-wrapper div img {
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 10px 10px 5px red;
 }
