@@ -22,6 +22,7 @@
 ![Email Confirmation](confirm4.png)
 
 ---
+##
 
 ### Password 
 **Choose a password.**
