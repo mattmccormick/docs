@@ -4,6 +4,7 @@
 * [Craigslist](craigslist.md)
    * [Create Craigslist Account](create_craigslist_account.md)
    * [Log In to Craigslist](login_to_craigslist.md)
+   * [Anatomy of a Posting](anatomy.md)
    * [Post Manually](post_manually.md)
    * [Craigslist Lifecycle](craigslist_lifecycle.md)
       * [Draft](draft.md)
@@ -14,9 +15,13 @@
       * [Delete](delete.md)
       * [Renew](renew.md)
       * [Repost](repost.md)
-    * [Settings](craigslist_setting.md)
+   * [Flagging](flagggin.md)
+   * [Ghosting](ghosting.md)
+   * [Craigslist Settings](craigslist_setting.md)
+   * [Finding your Posted Ads]()
 * [Chrome Browser](chrome.md)
    * [Installation](installing_google_chrome.md)
+   * 
 * [Settings](settings.md)
    * [Auto-Renew](auto-renew.md)
 
