@@ -14,8 +14,9 @@
       * [Delete](delete.md)
       * [Renew](renew.md)
       * [Repost](repost.md)
-* [Prerequisites](prerequisites.md)
-   * [Installing Google Chrome](installing_google_chrome.md)
+    * [Settings](craigslist_setting.md)
+* [Chrome Browser](chrome.md)
+   * [Installation](installing_google_chrome.md)
 * [Settings](settings.md)
    * [Auto-Renew](auto-renew.md)
 
