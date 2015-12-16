@@ -18,9 +18,14 @@
    * [Flagging](flagggin.md)
    * [Ghosting](ghosting.md)
    * [Craigslist Settings](craigslist_setting.md)
-   * Finding your Posted Ads
+   * [Finding your Posted Ads](finding_your_posted_ads.md)
 * [Chrome Browser](chrome.md)
    * [Installation](installing_google_chrome.md)
+   * [Running](running_chrome.md)
+   * [Minimizing](minimizing_chrome.md)
+   * [Restarting](restarting_chrome.md)
 * [Settings](settings.md)
-   * [Auto-Renew](auto-renew.md)
+    * [Opening Settings](opening_settings.md)
+    * [Minimum Required Fields](required_fields.md)
+    * [Auto-Renew](auto-renew.md)
 
