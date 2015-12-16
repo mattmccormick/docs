@@ -4,7 +4,7 @@
 
 A page similar to the one below will be shown.
 
-![Terms of service google installer](1.png)
+![Terms of service google installer](img/1.png)
 
 If prompted, click Run.
 
