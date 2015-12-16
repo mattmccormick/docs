@@ -4,6 +4,7 @@
 * [Craigslist](craigslistmd.md)
    * [Create Craigslist Account](create_craigslist_account.md)
    * [Log In to Craigslist](login_to_craigslist.md)
+   * [Resetting your Password](reset_craigslist_password.md)
    * [Anatomy of a Posting](anatomy.md)
    * [Post Manually](post_manually.md)
    * [Craigslist Lifecycle](craigslist_lifecycle.md)
