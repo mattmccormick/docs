@@ -38,7 +38,7 @@
    * [Checking Chrome Browser Version](chrome_version.md)
    * [Updating Chrome Browser](updating_chrome.md)
    * [Using Multiple Chrome Profiles](chrome_profiles.md)
-* [Chrome Browser Extensions](chrome_extensions.md)
+* [Browser Extensions](chrome_extensions.md)
    * [Chrome Webstore](webstore.md)
    * [Install Extension](install_chrome_extension.md)
    * [Checking Chrome Extension Versions](extension_versions.md)
