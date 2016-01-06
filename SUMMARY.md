@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Craigslist](craigslistmd.md)
    * [Create Craigslist Account](create_craigslist_account.md)
+       * Create Craigslist Account v2
    * [Log In to Craigslist](login_to_craigslist.md)
    * [Best Practices](craigslist_best_practices.md)
    * [Resetting your Password](reset_craigslist_password.md)
@@ -18,7 +19,7 @@
        * [Renew](renew.md)
        * [Repost](repost.md)
        * [Receiving Inquiries](receiving_inquiries.md)
-   * [Craigslist Problems]()
+   * Craigslist Problems
        * [Prohibited & Undesired Content](craigslist_prohibited_content.md)
        * [Flagging](flagggin.md)
        * [Ghosting](ghosting.md)
@@ -44,10 +45,10 @@
    * [Checking Chrome Extension Versions](extension_versions.md)
    * [Updating Chrome Extensions](updating_extensions.md)
 * [Your Property & Floorplan Webpage](property_webpage.md)
-    * [Finding your Property Website or Floorplan Webpage](finding_floorplan.md)
-    * [Posting Button](posting_button.md)
+   * [Finding your Property Website or Floorplan Webpage](finding_floorplan.md)
+   * [Posting Button](posting_button.md)
 * [Rooof Settings](settings.md)
-    * [Opening Settings](opening_settings.md)
-    * [Minimum Required Fields](required_fields.md)
-    * [Auto-Renew](auto-renew.md)
+   * [Opening Settings](opening_settings.md)
+   * [Minimum Required Fields](required_fields.md)
+   * [Auto-Renew](auto-renew.md)
 
