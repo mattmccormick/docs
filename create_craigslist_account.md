@@ -1,6 +1,6 @@
 # Create Craigslist Account
 
-<table border=0><tr><td>Descriptive text this is going to be a bunch of text and here is another line of text </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>
+<table border="0"><tr><td>Descriptive text this is going to be a bunch of text and here is another line of text </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>
 
 
 
