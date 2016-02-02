@@ -1,7 +1,9 @@
 # Create Craigslist Account
 
-<iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/123789121">Rooof Training - Webstore Installation</a> from <a href="https://vimeo.com/user38791157">ROOOF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+| Descriptive text | <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> |
+| -- | -- |
+
+
 
 [Click here for Craigslist sign-up page](https://accounts.craigslist.org/signup/)
 
