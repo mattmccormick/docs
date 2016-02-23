@@ -4,6 +4,12 @@ Please use consistent branding/design choices when adding content to the Rooof U
 
 All screenshots should match these design standards: 
 
+**Aspect Ratio**
+
+- Screenshots should follow a 4:3 aspect ratio.
+    - Ex. 400px by 300px, 600px by 450px, or 800px by 600px. 
+    - [Link to aspect ratio calculator](http://size43.com/jqueryVideoTool-4x3.html). 
+
 **Spotlight & Magnify Settings**
 
 Effects
@@ -28,6 +34,7 @@ Position
 
 Using those settings, this is how a typical screenshot should look:
 
+![](CLAccount.png)
 
 
 *This page can be deleted once the guide is complete. 
