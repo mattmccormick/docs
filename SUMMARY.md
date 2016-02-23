@@ -4,7 +4,7 @@
 * [Craigslist](craigslistmd.md)
    * [Create Craigslist Account](create_craigslist_account.md)
        * [Create Craigslist Account v2](create_craigslist_account_v2.md)
-   * [Log In to Craigslist](login_to_craigslist.md)
+   * [Log In to Craigslist](loginto_craigslist_md.md)
    * [Best Practices](craigslist_best_practices.md)
    * [Resetting your Password](reset_craigslist_password.md)
    * [Anatomy of a Posting](anatomy.md)
