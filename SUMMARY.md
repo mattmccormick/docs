@@ -51,5 +51,4 @@
    * [Opening Settings](opening_settings.md)
    * [Minimum Required Fields](required_fields.md)
    * [Auto-Renew](auto-renew.md)
-* [Installing Rooof](installing_rooof.md)
 
