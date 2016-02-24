@@ -5,6 +5,11 @@ Your Craigslist password can be reset through Craiglist's login page, as well as
 
 Resetting Your Password 
 
+Go to Craigslist, and click on their login button.
+
+![](CLLogin_pwreset.png)
+
+
 
 
 
