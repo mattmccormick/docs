@@ -7,12 +7,14 @@ Resetting Your Password
 
 Go to Craigslist, and click on their login button.
 
-![](CLLogin_pwreset.png)
+![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
 
+![](pwreset.png)
 
 
 
 
 Changing Your Password
 
-![](CLLoginPage_clickonsettings.png)
+
+![](clickonsettings.png)
