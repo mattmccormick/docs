@@ -34,7 +34,6 @@ Position
 
 Using those settings, this is how a typical screenshot should look:
 
-![](CLAccount.png)
-
+![](CLAccount_sample.png)
 
 *This page can be deleted once the guide is complete. 
