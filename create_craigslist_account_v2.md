@@ -13,3 +13,8 @@
 <br>
 ####3. You will be taken to the confirmation screen (1) and receive a "New Craigslist Account" confirmation email (2). 
 ![](accountsignup.png)
+<br><br>
+
+####4. Login to the email account that was used to create the Craigslist account, and click on the confirmation link within the email. 
+
+![](confirmationlink.png)
