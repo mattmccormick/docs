@@ -11,7 +11,5 @@
 ![](CLLogin.png)
 
 <br>
-####3. Enter your email and password and press "Log In" to access your account. 
-
-####4. If you do not have an account, enter your email address in the second field, and press "Create Account."
+####3. Enter your email and password and press "Log In" to access your account. (If you do not have an account, enter your email address in the second field, and press "Create Account.")
 
