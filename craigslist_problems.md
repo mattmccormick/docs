@@ -30,5 +30,24 @@ Although we may not agree with their reasons, Craigslist viewers have reported f
 - Looks like a big company (even if you are a big company)
 - Use of HTML, such as bold or underlined text (even though this is allowed)
 - Not allowing email responses
+---
+##Malicious Flagging
+Any user on Craigslist can flag an ad as "prohibited" for any reason. The purpose of the "prohibited" button is to keep Craigslist free of scams, however, this button may be used maliciously. It could be an upset tenant, a former employee, the competition, or anyone else with any motive. It is very difficult to prove if someone is doing this. You may wish to take the following steps to respond to malicious flagging:
+- Make your ads hard to find
+     - Remove the property name from ads
+     - Remove the address (except on the map)
+     - Change the phone number format (e.g. 555 555 1234 instead of (555) 555-1234)
+     - Remove text which is unique to your company (e.g. "Enjoy our famous elephant-shaped swimming pool)
+---
+##Next Steps
+After an ad has been flagged, take the following precautions to prevent this from reoccuring in the future:
+- Stop posting for at least two days (more is better, if possible)
+- Post fewer ads each day
+- Leave more time between posting each ad
+- Ensure that you are following all the steps mentioned above
+
+Rooof has settings that can help you avoid being flagged. In the settings page, select "Show Optional Settings", and scroll down to the Posting Reminders section. There is a setting which has Rooof remind you to leave a certain amount of time between each post.
+![](Flagging.jpg)
+Additionally, setting Rooof come up with varied ad titles, randomizing photo order will also help decrease flagging.
 
   
