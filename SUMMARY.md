@@ -8,7 +8,7 @@
    * [Best Practices](craigslistbest_practices_md.md)
    * [Resetting your Password](resetcraigslist_password_md.md)
    * [Anatomy of a Posting](anatomymd.md)
-   * [Post Manually](post_manually.md)
+   * [Post Manually](postmanually_md.md)
    * [Craigslist Lifecycle](craigslist_lifecycle.md)
        * [Draft](draft.md)
        * [Publish](publish.md)
