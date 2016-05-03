@@ -9,7 +9,7 @@
    * [Resetting your Password](resetcraigslist_password_md.md)
    * [Anatomy of a Posting](anatomymd.md)
    * [Post Manually](postmanually_md.md)
-   * [Craigslist Lifecycle](craigslist_lifecycle.md)
+   * [Craigslist Lifecycle](craigslistlifecycle_md.md)
        * [Draft](draft.md)
        * [Publish](publish.md)
        * [Confirm](confirm.md)
