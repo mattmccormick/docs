@@ -19,7 +19,7 @@
        * [Renew](renew.md)
        * [Repost](repost.md)
        * [Receiving Inquiries](receiving_inquiries.md)
-   * Craigslist Problems
+   * [Craigslist Problems](craigslist_problems.md)
        * [Prohibited & Undesired Content](craigslist_prohibited_content.md)
        * [Flagging](flagggin.md)
        * [Ghosting](ghosting.md)
