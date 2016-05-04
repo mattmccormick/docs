@@ -34,7 +34,7 @@
 * [Chrome Browser](chrome.md)
    * [Installation](installing_google_chrome.md)
    * [Running](runningchrome_md.md)
-   * [Minimizing](minimizing_chrome.md)
+   * [Minimizing](minimizingchrome_md.md)
    * [Restarting](restarting_chrome.md)
    * [Checking Chrome Browser Version](chrome_version.md)
    * [Updating Chrome Browser](updating_chrome.md)
