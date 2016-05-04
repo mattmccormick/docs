@@ -30,7 +30,7 @@
    * [Regions & Neighborhoods](regionsand_neighborhoods_md.md)
    * [Craigslist Settings](craigslistsetting_md.md)
    * [Changing Your Craigslist Email Address](changecraigslist_email_md.md)
-   * [Finding your Posted Ads](finding_your_posted_ads.md)
+   * [Finding your Posted Ads](findingyour_posted_ads_md.md)
 * [Chrome Browser](chrome.md)
    * [Installation](installing_google_chrome.md)
    * [Running](running_chrome.md)
