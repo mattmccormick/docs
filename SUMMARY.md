@@ -41,7 +41,7 @@
    * [Using Multiple Chrome Profiles](chromeprofiles_md.md)
 * [Browser Extensions](chrome_extensions.md)
    * [Chrome Webstore](webstoremd.md)
-   * [Install Extension](install_chrome_extension.md)
+   * [Install Extension](installchrome_extension_md.md)
    * [Checking Chrome Extension Versions](extension_versions.md)
    * [Updating Chrome Extensions](updating_extensions.md)
 * [Your Property & Floorplan Webpage](property_webpage.md)
