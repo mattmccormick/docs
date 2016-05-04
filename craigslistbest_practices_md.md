@@ -37,4 +37,4 @@ Following these guidelines will help your posts stand out, and also avoid being 
 - Don't post anything for 72 hours.
 - Post at most one ad per day for the next week.
 
-For in depth information about flagging, see the "Craigslist Problems" page.
+For in depth information about flagging, see the "Craigslist Problems" page. [](http://docs.rooof.com/craigslistbest_practices_md.html)
