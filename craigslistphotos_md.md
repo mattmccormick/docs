@@ -1,4 +1,4 @@
-# Images/Photos
+#Photos
 ##Photos in Ad
 When you add photos to your ad, they will be displayed like this...
 ![](photos1.jpg)<br>
