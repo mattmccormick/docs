@@ -1,7 +1,8 @@
 # Craigslist Settings
 This page explains the settings page of your Craigslist account.
+
 <br>
-How to get to the settings page
+**How to get to the settings page**
 1. Go to craigslist.org
 2. Log in to your account
 3. Cick "My Account" on the left side panel
