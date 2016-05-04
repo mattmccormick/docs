@@ -26,7 +26,7 @@
        * [Blocked IP Address](ip_blocked.md)
        * [Craigslist System Status](craigslist_system_status.md)
    * [Mapping](craigslist_mapping.md)
-   * [Images/Photos](craigslist_photos.md)
+   * [Images/Photos](craigslistphotos_md.md)
    * [Regions & Neighborhoods](regions_and_neighborhoods.md)
    * [Craigslist Settings](craigslistsetting_md.md)
    * [Changing Your Craigslist Email Address](changecraigslist_email_md.md)
