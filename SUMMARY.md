@@ -37,7 +37,7 @@
    * [Minimizing](minimizingchrome_md.md)
    * [Restarting](restarting_chrome.md)
    * [Checking Chrome Browser Version](chromeversion_md.md)
-   * [Updating Chrome Browser](updating_chrome.md)
+   * [Updating Chrome Browser](updatingchrome_md.md)
    * [Using Multiple Chrome Profiles](chrome_profiles.md)
 * [Browser Extensions](chrome_extensions.md)
    * [Chrome Webstore](webstore.md)
