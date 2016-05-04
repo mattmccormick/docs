@@ -40,7 +40,7 @@
    * [Updating Chrome Browser](updatingchrome_md.md)
    * [Using Multiple Chrome Profiles](chromeprofiles_md.md)
 * [Browser Extensions](chrome_extensions.md)
-   * [Chrome Webstore](webstore.md)
+   * [Chrome Webstore](webstoremd.md)
    * [Install Extension](install_chrome_extension.md)
    * [Checking Chrome Extension Versions](extension_versions.md)
    * [Updating Chrome Extensions](updating_extensions.md)
