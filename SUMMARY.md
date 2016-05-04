@@ -43,7 +43,7 @@
    * [Chrome Webstore](webstoremd.md)
    * [Install Extension](installchrome_extension_md.md)
    * [Checking Chrome Extension Versions](extensionversions_md.md)
-   * [Updating Chrome Extensions](updating_extensions.md)
+   * [Updating Chrome Extensions](updatingextensions_md.md)
 * [Your Property & Floorplan Webpage](property_webpage.md)
    * [Finding your Property Website or Floorplan Webpage](finding_floorplan.md)
    * [Posting Button](posting_button.md)
