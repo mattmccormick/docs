@@ -27,7 +27,7 @@
        * [Craigslist System Status](craigslist_system_status.md)
    * [Mapping](craigslist_mapping.md)
    * [Images/Photos](craigslistphotos_md.md)
-   * [Regions & Neighborhoods](regions_and_neighborhoods.md)
+   * [Regions & Neighborhoods](regionsand_neighborhoods_md.md)
    * [Craigslist Settings](craigslistsetting_md.md)
    * [Changing Your Craigslist Email Address](changecraigslist_email_md.md)
    * [Finding your Posted Ads](finding_your_posted_ads.md)
