@@ -33,7 +33,7 @@
    * [Finding your Posted Ads](findingyour_posted_ads_md.md)
 * [Chrome Browser](chrome.md)
    * [Installation](installing_google_chrome.md)
-   * [Running](running_chrome.md)
+   * [Running](runningchrome_md.md)
    * [Minimizing](minimizing_chrome.md)
    * [Restarting](restarting_chrome.md)
    * [Checking Chrome Browser Version](chrome_version.md)
