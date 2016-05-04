@@ -1,6 +1,6 @@
 # Changing Your Craigslist Email Address
 
-The following steps will show you how to change the email associated with your Craigslist account.
+The following steps will show you how to change the email associated with your Craigslist account. Please note that Craigslist will only let you change the email once every 30 days.
 1. Sign in to Craigslist
 2. Click "My Account" on the left panel
 ![](email change2.jpg)<br>
