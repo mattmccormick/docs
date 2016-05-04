@@ -35,7 +35,7 @@
    * [Installation](installing_google_chrome.md)
    * [Running](runningchrome_md.md)
    * [Minimizing](minimizingchrome_md.md)
-   * [Restarting](restarting_chrome.md)
+   * [Restarting](restartingchrome_md.md)
    * [Checking Chrome Browser Version](chromeversion_md.md)
    * [Updating Chrome Browser](updatingchrome_md.md)
    * [Using Multiple Chrome Profiles](chromeprofiles_md.md)
