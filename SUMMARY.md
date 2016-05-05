@@ -31,7 +31,7 @@
    * [Craigslist Settings](craigslistsetting_md.md)
    * [Changing Your Craigslist Email Address](changecraigslist_email_md.md)
    * [Finding your Posted Ads](findingyour_posted_ads_md.md)
-   * [Missing Ads](missing_ads.md)
+   * [Phone Verification](missing_ads.md)
 * [Chrome Browser](chromemd.md)
    * [Installation](installing_google_chrome.md)
    * [Running](runningchrome_md.md)
