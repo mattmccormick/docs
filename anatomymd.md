@@ -1,6 +1,5 @@
 # Anatomy of a Posting
 This section will break down a Craigslist ad piece by piece and display where the information ends up on the ad.
-##Manually Posting an Ad
 
 ##Finished Ad
 ![](Anatomy - After.jpg)
