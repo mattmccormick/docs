@@ -49,7 +49,7 @@
    * [Posting Button](posting_button.md)
 * [Rooof Settings](settings.md)
    * [Opening Settings](openingsettings_md.md)
-   * [Minimum Required Fields](required_fields.md)
+   * [Minimum Required Fields](requiredfields_md.md)
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
 
