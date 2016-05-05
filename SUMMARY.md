@@ -48,8 +48,8 @@
    * [Finding your Property Website or Floorplan Webpage](finding_floorplan.md)
    * [Posting Button](posting_button.md)
 * [Rooof Settings](settings.md)
+   * [Rooof Optional Settings](rooof_optional_settings.md)
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](required_fields.md)
    * [Auto-Renew](auto-renew.md)
-   * [Rooof Optional Settings](rooof_optional_settings.md)
 
