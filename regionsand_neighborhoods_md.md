@@ -11,4 +11,24 @@ Regions are the area-specific Craigslist site that you post on.
 ---
 ##Neighborhoods
 Neighborhoods are the smaller area within a region. The neighborhood shows up in brackets after the title of each ad.
-![](photos1.jpg)
+![](maps5.jpg)
+
+---
+##Rooof Settings
+If you consistiently post from the same neighborhood and region you can tell Rooof to use the same information each time.
+
+**Follow these steps:**
+1. Click the Rooof icon in the top right corner of your Chrome browser and choose settings
+![](email change7.jpg)
+
+2. Click the "Show Optional Settings" button
+![](photos2.jpg)
+
+3. Scroll down to the location settings. Here you can set your location and neighborhood to be the same for every ad.
+![](settings4.jpg)
+
+ - Select your region in the "Craigslist Site" area.
+     - If there is a subarea available, select it if the box appears
+ - Enter your neighborhood
+     - This will be a searchable keyword and show up in the title brackets
+ - You can also choose to set your cross street and zip/postal code
