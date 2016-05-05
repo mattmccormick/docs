@@ -1,8 +1,8 @@
 # Craigslist Problems
 
- Common Craigslist problems are being "flagged" or "deleted". This is when your ad is removed from the site before the expiration due to a Craigslist robot removing it, or from a user flagging it as "prohibited". Craigslist does not disclose the reason for removal - this page will describe common reasons for an ad being flagged.
+ Common Craigslist problems are being "flagged" or "ghosted". Flagging is when a Craigslist viewer marks your ad as "Prohibited". Ghosting is when a Craigslist robot detects your ad as being against the rules and makes it invisible. Craigslist does not disclose the reason for removal. This page will describe common reasons for an ad being flagged or ghosted.
  <br>
- ##Causes of Flagging
+ ##Causes
 This may occur for any of the following reasons:
 - Posting identical content within 48 hours
 - Posting content in multiple cities (even if the content is different)
