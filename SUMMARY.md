@@ -51,5 +51,5 @@
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](required_fields.md)
    * [Auto-Renew](auto-renew.md)
-   * Rooof Optional Settings
+   * [Rooof Optional Settings](rooof_optional_settings.md)
 
