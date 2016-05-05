@@ -1,4 +1,4 @@
 #Rooof User Manual
 =======
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+The Rooof User Manual is your go-to place to find instructions for using the Rooof software. 
