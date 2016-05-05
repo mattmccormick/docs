@@ -50,6 +50,6 @@
 * [Rooof Settings](settings.md)
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](required_fields.md)
-   * [Rooof Optional Settings](rooof_optional_settings.md)
+   * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
 
