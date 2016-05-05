@@ -1,7 +1,7 @@
-# Missing Ads
-This page will explain what to do if you have published a Craigslist ad but it is not showing on Craigslist.
+# Phone Verification
+This page will explain the phone verification process.
 
-Sometimes once you hit "Publish" Craigslist need you to confirm the ad through email. This generally only happens in the first month of using an account, but may happen past this point.
+Once you hit "Publish" Craigslist may need you to confirm the ad through phone verification. This generally happens in the first month of using an account, but may happen past this point. If you publish an ad and it is not showing, check your email for a verification notification email.
 
 If so, this is the page you will see after you click "Publish" on your ad.
 ![](email2.jpg)
