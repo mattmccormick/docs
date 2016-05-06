@@ -1,4 +1,4 @@
-# Mapping
+# Location on Map
 This page will show the mapping features of Craigslist, and how Rooof interacts with these features.
 
 When you post an ad to Craigslist, the property location is placed on a map. This helps potential residents see what area the property is in within the city.<br>
