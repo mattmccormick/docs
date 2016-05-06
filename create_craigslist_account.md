@@ -1,5 +1,4 @@
 # Create Craigslist Account
-
 <table><tr><td>Watch this short video to learn how to install the Rooof Chrome extension </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>
 
 
@@ -14,10 +13,6 @@
 
 
 ### Email Address
-
-
-
-
 ![Craiglist Signup](img/signup3.png)
 
 ![Confirmation](img/new-confirm.png)
