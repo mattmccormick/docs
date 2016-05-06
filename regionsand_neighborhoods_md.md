@@ -10,7 +10,7 @@ Regions are the area-specific Craigslist site that you post on.
 
 ---
 ##Neighborhoods
-Neighborhoods are the smaller area within a region. The neighborhood shows up in brackets after the title of each ad.
+Neighborhoods are the smaller area within a region. The neighborhood shows up in brackets after the title of each ad. ```Does this highway image look like it's blended in with the map?```
 ![](maps5.jpg)
 
 ---
