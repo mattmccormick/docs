@@ -10,7 +10,7 @@
 [Click here for Craigslist sign-up page](https://accounts.craigslist.org/signup/)
 
 ---
-<div style="page-break-after: always;"></div>
+<div class="pagebreak"></div>
 ### Email Address
 ![Craiglist Signup](img/signup3.png)
 
