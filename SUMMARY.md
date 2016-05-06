@@ -26,6 +26,7 @@
        * [Blocked IP Address](ip_blocked.md)
        * [Craigslist System Status](craigslist_system_status.md)
    * [Location on Map](craigslistmapping_md.md)
+       * Map Accuracy
    * [Photos](craigslistphotos_md.md)
    * [Regions & Neighborhoods](regionsand_neighborhoods_md.md)
    * [Craigslist Settings](craigslistsetting_md.md)
