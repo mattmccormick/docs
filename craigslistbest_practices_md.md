@@ -2,7 +2,7 @@
 
 ##Best Practice for Posting
 Following these guidelines will help your posts stand out, and also avoid being flagged:
-- Only ever post ads in one city/region
+- Only ever use your account to post ads in one city/region
 - Include a phone number in the body of every ad
 - Write a unique title for every post
 - Write different content in the main body of your ads
