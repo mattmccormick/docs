@@ -25,6 +25,7 @@ Have you forgotten your password? If so, your Craigslist password can be reset t
 <br><br>
 
 ####4 You will be taken to a page like this (1), and receive an email with the reset link (2). 
+```I think that these screenshots should be separated.```
 
 ![](emailsample.png)
 <br><br>
