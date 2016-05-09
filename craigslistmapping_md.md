@@ -4,7 +4,7 @@ This page will show the mapping features of Craigslist, and how Rooof interacts 
 When you post an ad to Craigslist, the property location is placed on a map. This helps potential residents see what area the property is in within the city.<br>
 ![](maps1.jpg)<br>
 
-A pin point is placed on your map based on the information that Rooof pulls from your property website.
+A pin is placed on your map based on the information that Rooof pulls from your property website.
 
 **There are two ways to change the locations in your posting:**
 1. Edit the draft posting. Once Rooof gives you the unpublished draft version of your ad, click "Edit Location".
