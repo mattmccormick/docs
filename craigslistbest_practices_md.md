@@ -2,7 +2,7 @@
 
 ##Best Practice for Posting
 Following these guidelines will help your posts stand out, and also avoid being flagged:
-- Only ever use your account to post ads in one city/region
+- Only use your account to post ads in one city/region
 - Include a phone number in the body of every ad
 - Write a unique title for every post
 - Write different content in the main body of your ads
@@ -17,7 +17,7 @@ Following these guidelines will help your posts stand out, and also avoid being 
 - Do not include company names or logos in your posts. 
 - Do not include a URL/website in the body of the ad.
 - Do not leave out contact information. 
-- Avoid words like "free" They sound scammy. 
+- Avoid words like "free." They sound scammy to Craigslist. 
 - Try not to post while on vacation or outside of your city/state/country.
 - Don't use the same computer to create spam.
 - Don't hide information from tenants (e.g. "Call us for pricing").
