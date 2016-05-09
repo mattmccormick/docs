@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Create Craigslist Account](create_craigslist_account.md)
+   * [Create Craigslist Account v2](create_craigslist_account_v2.md)
 * [Craigslist](craigslistmd.md)
    * [Create Craigslist Account](create_craigslist_account.md)
        * [Create Craigslist Account v2](create_craigslist_account_v2.md)
