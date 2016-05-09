@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Create Craigslist Account](create_craigslist_account.md)
-   * [Create Craigslist Account v2](create_craigslist_account_v2.md)
 * [Craigslist](craigslistmd.md)
    * [Log In to Craigslist](loginto_craigslist_md.md)
    * [Best Practices](craigslistbest_practices_md.md)
@@ -33,6 +31,8 @@
    * [Changing Your Craigslist Email Address](changecraigslist_email_md.md)
    * [Finding your Posted Ads](findingyour_posted_ads_md.md)
    * [Phone Verification](missing_ads.md)
+* [Create Craigslist Account](create_craigslist_account.md)
+   * [Create Craigslist Account v2](create_craigslist_account_v2.md)
 * [Chrome Browser](chromemd.md)
    * [Installation](installing_google_chrome.md)
    * [Running](runningchrome_md.md)
