@@ -40,7 +40,7 @@ Any user on Craigslist can flag an ad as "prohibited" for any reason. The purpos
      - Remove text which is unique to your company (e.g. "Enjoy our famous elephant-shaped swimming pool)
 ---
 ##Next Steps
-After an ad has been flagged, take the following precautions to prevent this from reoccuring in the future:
+After an ad has been flagged, take the following precautions to prevent this from reoccurring in the future:
 - Stop posting for at least two days (more is better, if possible)
 - Post fewer ads each day
 - Leave more time between posting each ad
@@ -48,6 +48,6 @@ After an ad has been flagged, take the following precautions to prevent this fro
 
 Rooof has settings that can help you avoid being flagged. In the settings page, select "Show Optional Settings", and scroll down to the Posting Reminders section. There is a setting which has Rooof remind you to leave a certain amount of time between each post.
 ![](Flagging.jpg)
-Additionally, setting Rooof come up with varied ad titles, randomizing photo order will also help decrease flagging.
+Additionally, letting Rooof come up with varied ad titles, randomizing photo order will also help decrease flagging.
 
   
