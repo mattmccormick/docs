@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Craigslist](craigslistmd.md)
    * [Create Craigslist Account](create_craigslist_account.md)
-       * [Create Craigslist Account v2](create_craigslist_account_v2.md)
    * [Log In to Craigslist](loginto_craigslist_md.md)
    * [Best Practices](craigslistbest_practices_md.md)
    * [Resetting your Password](resetcraigslist_password_md.md)
