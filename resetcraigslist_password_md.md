@@ -3,33 +3,16 @@
 Have you forgotten your password? If so, your Craigslist password can be reset through Craiglist's login page, and changed through the Craigslist account page. 
 
 
+##Forgotten Password
+**If you have forgotten your Craigslist password, follow these steps:**
 
----
+1. Go to [craigslist.org](craigslist.org) and on the left panel click "my account"
+![](password1.jpg)
 
+2. Click the "Forgot Password?" button in the bottom right corner of the "Log in to your craigslist account" box
+![](password2.jpg)
 
-###Resetting Your Password 
-
-####1. Go to Craigslist, and click on the login button.
-
-![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
-<br><br>
-
-####2. Next, click on "Forgot password?"
-![](pwreset.png)
-<br><br>
-
-
-####3. Once you land on the reset password page, enter your Craigslist account email into the text field. Then press "Reset Password." 
-
-![](reset.png)
-<br><br>
-
-####4 You will be taken to a page like this (1), and receive an email with the reset link (2). 
-```I think that these screenshots should be separated.```
-
-![](emailsample.png)
-<br><br>
-
+3. Enter
 
 ---
 
