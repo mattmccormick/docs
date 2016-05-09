@@ -1,11 +1,8 @@
 # Create Craigslist Account
-<table><tr><td>Watch this short video to learn how to install the Rooof Chrome extension </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>
-
-
----
+This page will explain how to create a new account on Craigslist.
 
 **To create a Craigslist account, follow these steps:**
-1. Go to [craigslist.org](craigslist.org) and on the left sdie panel, click "my account"
+1. Go to [craigslist.org](craigslist.org) and on the left side panel, click "my account"
 ![](newaccount1.jpg)
 
 2. In the "Create a craigslist account" box, enter your email and click "Create Account"
