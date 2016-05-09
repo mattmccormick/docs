@@ -9,7 +9,7 @@ Have you forgotten your password? If so, your Craigslist password can be reset t
 
 ###Resetting Your Password 
 
-####1. Go to Craigslist, and click on their login button.
+####1. Go to Craigslist, and click on the login button.
 
 ![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
 <br><br>
@@ -19,7 +19,7 @@ Have you forgotten your password? If so, your Craigslist password can be reset t
 <br><br>
 
 
-####3. Once you land on the reset password page, enter your Craigslist account email into the text field. Then, press "Reset Password." 
+####3. Once you land on the reset password page, enter your Craigslist account email into the text field. Then press "Reset Password." 
 
 ![](reset.png)
 <br><br>
