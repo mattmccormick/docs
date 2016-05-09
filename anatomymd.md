@@ -1,4 +1,4 @@
-# Anatomy of a Posting
+# Anatomy of a Post
 This section will break down a Craigslist ad piece by piece and display where the information ends up on the ad.
 
 ##Finished Ad
