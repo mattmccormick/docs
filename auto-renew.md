@@ -3,7 +3,7 @@
 ##What is Ad Renewal?
 When you initially post your ad, it is at the top on the first page of ad listings. Eventually your ad gets pushed down the page (and eventually after the first page) as your competitors post their ad. After 48 hours, your ad is eligible to be renewed. When it is renewed, it is placed back at the top of the ad listings.
 
-Renewing keeps your ads at the top of the page and ready to be seen by potential residents. Many viewers do not go past the first few pages of listings, and renewing makes sure your ads are seen by as many people as possible.
+Renewing keeps your ads at the top of the page and ready to be seen by prospective residents. Many viewers do not go past the first few pages of listings, and renewing makes sure your ads are seen by as many people as possible.
 
 ---
 
@@ -22,3 +22,8 @@ Rooof can do all your ad renewals for you! Once you change your settings, Rooof 
 ![](renew1.jpg)
 
 **In order for auto-renewal to work, make sure you keep Chrome open. If you do not normally use the browser you can keep Chrome minimized to keep Rooof working in the background.**
+
+##Auto Repost
+This is different than Renew. 
+Renew may be performed every 48 hours until the posting expires.
+After the posting expires, then it may be Reposted.
