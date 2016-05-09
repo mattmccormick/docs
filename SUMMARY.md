@@ -7,7 +7,7 @@
    * [Log In to Craigslist](loginto_craigslist_md.md)
    * [Best Practices](craigslistbest_practices_md.md)
    * [Resetting your Password](resetcraigslist_password_md.md)
-   * [Anatomy of a Posting](anatomymd.md)
+   * [Anatomy of a Post](anatomymd.md)
    * [Posting](postmanually_md.md)
    * [Craigslist Lifecycle](craigslistlifecycle_md.md)
        * [Draft](draft.md)
