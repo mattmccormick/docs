@@ -12,7 +12,7 @@ Have you forgotten your password? If so, your Craigslist password can be reset t
 2. Click the "Forgot Password?" button in the bottom right corner of the "Log in to your craigslist account" box
 ![](password2.jpg)
 
-3. Enter
+3. Enter 
 
 ---
 
