@@ -14,4 +14,4 @@ This section will break down a Craigslist ad piece by piece and display where th
 
 
 ##Finished Ad
-![](antomy2.jpg)
+  ![](antomy2.jpg)
