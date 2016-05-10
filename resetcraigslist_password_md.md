@@ -1,6 +1,6 @@
 # Resetting your Password
 
-Have you forgotten your password? If so, your Craigslist password can be reset through Craiglist's login page, and changed through the Craigslist account page. 
+This page gives you steps to change your password in two situations.
 
 
 ##Forgotten Password
@@ -12,32 +12,40 @@ Have you forgotten your password? If so, your Craigslist password can be reset t
 2. Click the "Forgot Password?" button in the bottom right corner of the "Log in to your craigslist account" box
 ![](password2.jpg)
 
-3. Enter 
+3. Enter the email associated with your Craigslist account and click "Reset Password"
+![](password3.jpg)
+
+4. They will send a reset link to reset the password
+![](password4.jpg)
+
+5. Go to your email and click the link
+![](password5.jpg)<br>
+*If you do not see an email, make sure you check your junk folder
+
+6. Enter in a new password and click "Change Password"
+![](password6.jpg)
+
+7. You will get a message confirming the password reset
+![](password7.jpg)
 
 ---
 
+##Changing a Password
 
-###Changing Your Password
+**To change your Craigslist password, follow these steps:**
+1. Go to [craigslist.org](craigslist.org) and on the left side panel click "my account"
+![](password1.jpg)
 
-####1. Go to Craigslist, and click on their login button.
+2. Enter your credentials and click "Log In"
+![](password8.jpg)
 
-![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
-<br><br>
+3. Click the "settings" tab at the top left
+![](password9.jpg)
 
-####2. From there, you will be taken to a login page. Enter your email and password and press "Log In" to access your account.
+4. Click the  "change password" button
+![](password10.jpg)
 
-![](CLLogin.png)
+5. Enter your existing password, then enter the new password you want and click "Change Password"
+![](password11.jpg)
 
-<br>
-####3. From the account page, click on "settings."
-
-![](clickonsettings.png)
-<br><br>
-
-####4. Once you're in the settings section, you can change your password by clicking on the "change password" button. 
-
-![](CLSettings_pw.png)
-<br><br>
-####5. You'll now be able to change your password to whatever you'd like! Firstly, enter your old password, and then your new one twice, before pressing the "Change Password" button.
-
-![](pwreset2.png)
+**Your password is now changed!**
