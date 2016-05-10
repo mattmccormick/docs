@@ -6,7 +6,7 @@ Once you hit "Publish" Craigslist may need you to confirm the ad through phone v
 If so, this is the page you will see after you click "Publish" on your ad.
 ![](email2.jpg)
 
-**If you are missing an ad, follow these steps:**
+**If you get this message, follow these steps:**
 1. Go to your email
 2. Check for an email from Craigslist with the subject "POST/EDIT/DELETE"
    - If you do not see it, check your junk folder
