@@ -17,4 +17,11 @@ To check if Chrome is actually closed, we need to check a few places:
 
 **If you have checked these three areas, and do not see Chrome then it has fully closed.**
 
+---
+**You may also be interested in:**
+- [Checking Chrome Version](http://docs.rooof.com/chromeversion_md.html)
+- [Chrome Webstore](http://docs.rooof.com/webstoremd.html)
+- [Updating Chrome](http://docs.rooof.com/updatingchrome_md.html)
+
+
 
