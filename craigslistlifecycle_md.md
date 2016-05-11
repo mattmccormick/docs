@@ -9,7 +9,7 @@
 - Deleted
 <br>
 ##Drafted
- When you have filled out the information for a new ad, it is a draft. In the "drafted" stage, only you are able to see the ad - the public cannot see the ad at this stage. When you are happy with the draft of your ad, click "Publish"
+ When you have filled out the information for a new ad, it is a draft. In the "drafted" stage, only you are able to see the ad - the public cannot see the ad at this stage. When you are happy with the draft of your ad, click "**Publish**"
 <br>
 ##Published
  In the "Published" stage, your ad is able to be viewed and searched for by the public. Visitors viewing your ad will be able to respond.
