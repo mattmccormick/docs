@@ -1,5 +1,5 @@
 # Install Extension
-This page will tell you how to install your Rooof extenstion to Google Chrome.
+This page will tell you how to install your Rooof posting tool to Google Chrome.
 
 **Follow these instructions:**
 1. Open Google Chrome
