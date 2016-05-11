@@ -6,7 +6,7 @@ Follow these instructions:
 1. Open the Google Chrome browser
 2. If you are logged in to Chrome, click the button with your name in the top right corner
 ![](chrome10.jpg)<br>
-If you are not logged in, click the icon in this place and enter your credentials.
+If you are not logged in you will see a small icon of a person. Click this and enter your credentials to log in to Chrome.
 
 3. Click the "Switch Person" button
 ![](chrome11.jpg)<br>
