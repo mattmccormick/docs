@@ -6,7 +6,7 @@ Rooof works by taking information from your property website, specifically on th
 2. Navigate to the floor plan page
 3. Select the floor plan you want to post an ad for
    - For some websites, you may need to click through to availability
-4. The blue Rooof "Post Now" button will be next to the floor plan
+4. The blue Rooof "**Post Now**" button will be next to the floor plan
 
 ---
 **You may also find interesting:**
