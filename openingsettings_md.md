@@ -14,3 +14,9 @@ This page will show you how to access your Rooof settings.
 ![](photos2.jpg)
 
 **You now have access to all your settings!**
+
+---
+**You may also find interesting:**
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
+- [Install Extensions](http://docs.rooof.com/installchrome_extension_md.html)
+- [Install Google Chrome](http://docs.rooof.com/installing_google_chrome.html)
