@@ -6,6 +6,7 @@ If you want to see the ads you have posted, follow these steps:
 ![](email change2.jpg)
 
 The page will default to the postings tab of your account. From here you see a list of your active and inactive ads.
+![](postedads1.jpg)
 
 ---
 **You may also be interested in:**
