@@ -28,7 +28,7 @@
  
  ---
  **You may also be interested in:**
- - [Anatomy of a Post](http://docs.rooof.com/anatomymd.html)
- - [Posting Button](http://docs.rooof.com/postingbutton_md.html)
- - [Auto-Renew](http://docs.rooof.com/auto-renew.html)
+- [Anatomy of a Post](http://docs.rooof.com/anatomymd.html) 
+- [Posting Button](http://docs.rooof.com/postingbutton_md.html)
+- [Auto-Renew](http://docs.rooof.com/auto-renew.html)
  
