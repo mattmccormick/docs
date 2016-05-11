@@ -12,3 +12,9 @@ This page explains how to access the Rooof posting tool on your property website
 - You are using Google Chrome
 - You have the Rooof posting tool Chrome extension installed (it must be installed on each computer you want to post from)
 - You are on the correct property website
+
+---
+**You may also find interesting:**
+- [Finding your Website/Floorplans](http://docs.rooof.com/findingfloorplan_md.html)
+- [Opening Settings](http://docs.rooof.com/openingsettings_md.html)
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
