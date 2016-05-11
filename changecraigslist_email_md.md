@@ -31,3 +31,9 @@ The following steps will show you how to change the email associated with your C
 ![](email change8.jpg)
 
 **Your email is now updated!**
+
+---
+**You may also be interested in:**
+- [Logging in to Craigslist](http://docs.rooof.com/loginto_craigslist_md.html)
+- [Resetting your Password](http://docs.rooof.com/resetcraigslist_password_md.html)
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)
