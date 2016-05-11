@@ -16,7 +16,7 @@ Once on the next page, you can click and drag the pinpoint to change the map loc
 2. Set your Rooof settings to remember your location. Click the Rooof icon in the top right corner, then "**Settings**".
 ![](email change7.jpg)
 
-Once your are in the settings page, click the "how Optional Settings**" button.
+Once your are in the settings page, click the "**Show Optional Settings**" button.
 ![](photos2.jpg)
 
 Scroll down to the location settings. Here you can set Rooof to always use the same Craigslist site, neighborhood, cross street, or postal code.
