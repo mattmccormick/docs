@@ -27,7 +27,7 @@ The following steps will show you how to change the email associated with your C
 9. Click the Rooof icon in the top right corner of Google Chrome and click the "**Settings**" button
 ![](email change7.jpg)<br>
 
-10. In the  Craigslist Credentials section, type the new email into the box and click "ave"
+10. In the  Craigslist Credentials section, type the new email into the box and click "**Save**"
 ![](email change8.jpg)
 
 **Your email is now updated!**
