@@ -49,3 +49,10 @@ This page gives you steps to change your password in two situations.
 ![](password11.jpg)
 
 **Your password is now changed!**
+
+---
+
+**You may also be interested in:**
+- [Changing your Craigslist Email](http://docs.rooof.com/changecraigslist_email_md.html)
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
