@@ -22,3 +22,10 @@ Rooof can do all your ad renewals for you! Once you change your settings, Rooof 
 ![](renew1.jpg)
 
 **In order for auto-renewal to work, make sure you keep Chrome open. If you do not normally use the browser you can keep Chrome minimized to keep Rooof working in the background.**
+
+---
+**You may also find interesting:**
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
+- [Craigslist Lifecycle](http://docs.rooof.com/craigslistlifecycle_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
+
