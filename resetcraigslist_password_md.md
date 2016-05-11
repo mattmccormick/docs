@@ -6,13 +6,13 @@ This page gives you steps to change your password in two situations.
 ##Forgotten Password
 **If you have forgotten your Craigslist password, follow these steps:**
 
-1. Go to [craigslist.org](craigslist.org) and on the left panel click "my account"
+1. Go to [craigslist.org](craigslist.org) and on the left panel click "**my account**"
 ![](password1.jpg)
 
-2. Click the "Forgot Password?" button in the bottom right corner of the "Log in to your craigslist account" box
+2. Click the "**Forgot Password?**" button in the bottom right corner of the "**Log in to your craigslist account**" box
 ![](password2.jpg)
 
-3. Enter the email associated with your Craigslist account and click "Reset Password"
+3. Enter the email associated with your Craigslist account and click "**Reset Password**"
 ![](password3.jpg)
 
 4. They will send a reset link to reset the password
@@ -22,7 +22,7 @@ This page gives you steps to change your password in two situations.
 ![](password5.jpg)<br>
 *If you do not see an email, make sure you check your junk folder
 
-6. Enter in a new password and click "Change Password"
+6. Enter in a new password and click "**Change Password**"
 ![](password6.jpg)
 
 7. You will get a message confirming the password reset
@@ -33,19 +33,19 @@ This page gives you steps to change your password in two situations.
 ##Changing a Password
 
 **To change your Craigslist password, follow these steps:**
-1. Go to [craigslist.org](craigslist.org) and on the left side panel click "my account"
+1. Go to [craigslist.org](craigslist.org) and on the left side panel click "**my account**"
 ![](password1.jpg)
 
-2. Enter your credentials and click "Log In"
+2. Enter your credentials and click "**Log In**"
 ![](password8.jpg)
 
-3. Click the "settings" tab at the top left
+3. Click the "**settings**" tab at the top left
 ![](password9.jpg)
 
-4. Click the  "change password" button
+4. Click the  "**change password**" button
 ![](password10.jpg)
 
-5. Enter your existing password, then enter the new password you want and click "Change Password"
+5. Enter your existing password, then enter the new password you want and click "**Change Password**"
 ![](password11.jpg)
 
 **Your password is now changed!**
