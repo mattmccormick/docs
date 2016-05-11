@@ -4,16 +4,16 @@ Google Chrome is a web browser similar to Firefox or Internet Explorer. You must
 **To download and install the Google Chrome browser, follow these steps:**
 
 1. Click [here](https://www.google.com/chrome/browser/desktop/index.html) to go to the download page for Google Chrome.
-2. Click the blue "Download Chrome" button
+2. Click the blue "**Download Chrome**" button
 ![](chrome17.jpg)
 
-3. Read the terms of service and click "Accept and Install"
+3. Read the terms of service and click "**Accept and Install**"
 ![](chrome18.jpg)
 
-4. Once the file has finished downloading in your browser, click it to open. Then click the "Run" button on the pop up.
+4. Once the file has finished downloading in your browser, click it to open. Then click the "**Run**" button on the pop up.
 ![](chrome19.jpg)
 
-5. A box may appear asking if you want to allow the program to make changes to your computer. If this happens, click "Yes"
+5. A box may appear asking if you want to allow the program to make changes to your computer. If this happens, click "**Yes**"
 6. Google Chrome will now download and install on your computer
 ![](chrome20.jpg)
 
