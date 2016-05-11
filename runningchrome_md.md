@@ -18,3 +18,10 @@ If you have the Rooof posting tool extension installed, you will be able to see 
 
 By clicking the logo, you are able to access your settings, or report a problem.
 ![](chrome3.jpg)
+
+---
+
+**You may also be interested in:**
+- [Minimizing Chrome](http://docs.rooof.com/minimizingchrome_md.html)
+- [Restarting Chrome](http://docs.rooof.com/restartingchrome_md.html)
+- [Updating Chrome](http://docs.rooof.com/updatingchrome_md.html)
