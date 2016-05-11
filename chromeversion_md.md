@@ -12,3 +12,9 @@ Follow these steps:
 
 4. The "About Google Chrome" page will show you the version number that you are and will also tell you if it is up to date
 ![](chrome8.jpg)
+
+---
+**You may also be interested in:**
+- [Updating Chrome](http://docs.rooof.com/updatingchrome_md.html)
+- [Restarting Chrome](http://docs.rooof.com/restartingchrome_md.html)
+- [Checking Chrome Extension Versions](http://docs.rooof.com/extensionversions_md.html)
