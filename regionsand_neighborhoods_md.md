@@ -35,4 +35,7 @@ If you consistently post from the same neighborhood and region you can tell Rooo
 
 ---
 
-**You may also find interesting**
+**You may also be interested in:**
+- [Location on Map](http://docs.rooof.com/craigslistmapping_md.html)
+- [Opening Settings](http://docs.rooof.com/openingsettings_md.html)
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
