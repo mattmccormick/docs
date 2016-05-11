@@ -46,7 +46,7 @@ After an ad has been flagged, take the following precautions to prevent this fro
 - Leave more time between posting each ad
 - Ensure that you are following all the steps mentioned above
 
-Rooof has settings that can help you avoid being flagged. In the settings page, select "Show Optional Settings", and scroll down to the Posting Reminders section. There is a setting which has Rooof remind you to leave a certain amount of time between each post.
+Rooof has settings that can help you avoid being flagged. In the settings page, select "**Show Optional Settings**", and scroll down to the Posting Reminders section. There is a setting which has Rooof remind you to leave a certain amount of time between each post.
 ![](Flagging.jpg)
 Additionally, letting Rooof come up with varied ad titles, randomizing photo order will also help decrease flagging.
 
