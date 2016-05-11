@@ -50,4 +50,12 @@ Rooof has settings that can help you avoid being flagged. In the settings page, 
 ![](Flagging.jpg)
 Additionally, letting Rooof come up with varied ad titles, randomizing photo order will also help decrease flagging.
 
+---
+
+**You may also be interested in:**
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
+- [Auto-Renew](http://docs.rooof.com/auto-renew.html)
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)
+
+
   
