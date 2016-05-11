@@ -15,4 +15,4 @@ This page will show you how to update extensions (like Rooof) on Google Chrome.
 5. Click the "Update extensions now" button
 ![](update4.jpg)
 
-**Your Extensions are now updated!**
+**Your extensions are now updated!**
