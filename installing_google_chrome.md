@@ -23,3 +23,9 @@ To start Chrome:
 * Windows 7/Vista: A Chrome window opens once everything is set up.
 
 * Windows 8: A welcome dialog appears, click Next to select your default browser. If you choose Google Chrome, it'll launch as a Windows 8 app from the Start Screen.
+
+---
+**You may also be interested in:**
+- [Running Chrome](http://docs.rooof.com/runningchrome_md.html)
+- [Restarting Chrome](http://docs.rooof.com/restartingchrome_md.html)
+- [Install Extension](http://docs.rooof.com/installchrome_extension_md.html)
