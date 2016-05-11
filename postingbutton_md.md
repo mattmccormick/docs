@@ -10,5 +10,5 @@ This page explains how to access the Rooof posting tool on your property website
 
 **If you do not see these buttons, check the following things:**
 - You are using Google Chrome
-- You have the Rooof Chrome extension installed (it must be installed on each computer you want to post from)
+- You have the Rooof posting tool Chrome extension installed (it must be installed on each computer you want to post from)
 - You are on the correct property website
