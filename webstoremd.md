@@ -8,3 +8,10 @@ Once you are in the Webstore, you can browse by category, features, or ratings. 
 
 When it has successfully downloaded, the button will change to green and say "Added to Chrome".<br>
 ![](webstore2.jpg)
+
+---
+**You may also be interested in:**
+- [Installing Google Chrome](http://docs.rooof.com/installing_google_chrome.html)
+- [Installing Chrome Extentions](http://docs.rooof.com/installchrome_extension_md.html)
+- [Posting Button](http://docs.rooof.com/postingbutton_md.html)
+
