@@ -20,3 +20,9 @@ If so, this is the page you will see after you click "Publish" on your ad.
 ![](email5.jpg)
 
 **Your post is now published!**
+
+---
+**You may also be interested in:**
+- [Logging in to Craigslist](http://docs.rooof.com/loginto_craigslist_md.html)
+- [Finding your Posted Ads](http://docs.rooof.com/findingyour_posted_ads_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
