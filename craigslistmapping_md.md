@@ -21,3 +21,9 @@ Once your are in the settings page, click the "Show Optional Settings" button.
 
 Scroll down to the location settings. Here you can set Rooof to always use the same Craigslist site, neighborhood, cross street, or postal code.
 ![](settings4.jpg)
+
+---
+**You may also be interested in:**
+- [Regions and Neighborhoods](http://docs.rooof.com/regionsand_neighborhoods_md.html)
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
+- [Running Google Chrome](http://docs.rooof.com/runningchrome_md.html)
