@@ -25,3 +25,8 @@ This page will explain how to create a new account on Craigslist.
 ![](newaccount7.jpg)
 
 **You are now ready to start using your new Craigslist account!**
+
+**You may also be interested in:**
+- [Log In to Craigslist](http://docs.rooof.com/loginto_craigslist_md.html)
+- [Craigslist Best Practices](http://docs.rooof.com/craigslistbest_practices_md.html)
+- [Installing Google Chrome](http://docs.rooof.com/installing_google_chrome.html)
