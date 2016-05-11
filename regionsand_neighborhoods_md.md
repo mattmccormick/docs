@@ -32,3 +32,7 @@ If you consistently post from the same neighborhood and region you can tell Rooo
  - Enter your neighborhood
      - This will be a searchable keyword and show up in the title brackets
  - You can also choose to set your cross street and zip/postal code
+
+---
+
+**You may also find interesting**
