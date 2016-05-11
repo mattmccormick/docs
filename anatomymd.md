@@ -15,3 +15,9 @@ This section will break down a Craigslist ad piece by piece and display where th
 
 ##Finished Ad
   ![](antomy2.jpg)
+
+---
+**You may also be interested in:**
+- [Craigslist Lifecycle](http://docs.rooof.com/craigslistlifecycle_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
+- [Minimum Required Fields](http://docs.rooof.com/requiredfields_md.html)
