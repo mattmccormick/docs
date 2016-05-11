@@ -12,4 +12,11 @@ Following these guidelines will help your posts stand out, and also avoid being 
 - Use the CL email relay (don't hide your email address)
 - Include 2-9 photos (rotate the order of the photos)
 
-For common Craigslist problems and fixes, see the [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html) page.
+
+---
+
+**You may also be interested in:**
+
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
+- [Craigslist Lifecycle](http://docs.rooof.com/craigslistlifecycle_md.html)
+- [Posting Button](http://docs.rooof.com/postingbutton_md.html)
