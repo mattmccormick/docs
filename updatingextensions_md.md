@@ -16,3 +16,9 @@ This page will show you how to update extensions (like Rooof) on Google Chrome.
 ![](update4.jpg)
 
 **Your extensions are now updated!**
+
+---
+**You may also find interesting:**
+- [Check Chrome Extension Version](http://docs.rooof.com/extensionversions_md.html)
+- [Check Chrome Version](http://docs.rooof.com/chromeversion_md.html)
+- [Updating Chrome](http://docs.rooof.com/updatingchrome_md.html)
