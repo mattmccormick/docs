@@ -8,10 +8,10 @@ Follow these instructions:
 ![](chrome10.jpg)<br>
 If you are not logged in you will see a small icon of a person. Click this and enter your credentials to log in to Chrome.
 
-3. Click the "Switch Person" button
+3. Click the "**Switch Person**" button
 ![](chrome11.jpg)<br>
 
-4. If there is already another profile logged in to Chrome, it will show beside yours. If not, then click "Add Account" at the bottom of the page. This will allow you to create a new profile to use in Chrome.
+4. If there is already another profile logged in to Chrome, it will show beside yours. If not, then click "**Add Account**" at the bottom of the page. This will allow you to create a new profile to use in Chrome.
 ![](chrome12.jpg)<br>
 
 5. Now you have two Chrome screens open, allowing you to work from two different accounts at the same time
