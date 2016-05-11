@@ -11,3 +11,10 @@ Follow these steps:
 
 4. This page will tell you the version you are running, and if there are any updates available they will be here.
 ![](chrome9.jpg)
+
+---
+
+**You may also find interesting:**
+- [Checking Chrome Version](http://docs.rooof.com/chromeversion_md.html)
+- [Updating Chrome Extensions](http://docs.rooof.com/updatingextensions_md.html)
+- [Using Multiple Chrome Profiles](http://docs.rooof.com/chromeprofiles_md.html)
