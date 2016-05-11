@@ -69,4 +69,9 @@ If you select "Let me write several titles to be used" you can write your own ti
 ![](settings9.jpg)
 **Minimum Gap Between Ads** - 
 
-1. [Auto Renew](https://rooof.gitbooks.io/rooof-user-manual/content/auto-renew.html)
+---
+**You may also find interesting:**
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)
+- [Opening Settings](http://docs.rooof.com/openingsettings_md.html)
+- [Auto-Renew](http://docs.rooof.com/auto-renew.html)
+
