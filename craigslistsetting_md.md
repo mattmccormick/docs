@@ -16,3 +16,9 @@ This page explains the settings page of your Craigslist account.
 **Default Site** - If you have one city you are posting from you can choose to set a default site to save time selecting a city when posting.<br>
 **Stay Logged in For** - Use the drop down menu to choose how long you remained logged into your account. This ranges from 15 minutes to one week. <br>
 **Deactivate This Account** - If you want to deactivate your Craigslist account, click "deactivate account".
+
+---
+**You may also be interested in:**
+- [Resetting your Password](http://docs.rooof.com/resetcraigslist_password_md.html)
+- [Changing Craigslist Email](http://docs.rooof.com/changecraigslist_email_md.html)
+- [Minimum Required Fields](http://docs.rooof.com/requiredfields_md.html)
