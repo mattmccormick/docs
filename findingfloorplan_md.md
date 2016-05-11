@@ -8,3 +8,8 @@ Rooof works by taking information from your property website, specifically on th
    - For some websites, you may need to click through to availability
 4. The blue Rooof "Post Now" button will be next to the floor plan
 
+---
+**You may also find interesting:**
+- [Posting Button](http://docs.rooof.com/postingbutton_md.html)
+- [Install Extension](http://docs.rooof.com/installchrome_extension_md.html)
+- [Minimum Required Fields](http://docs.rooof.com/requiredfields_md.html)
