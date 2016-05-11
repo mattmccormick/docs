@@ -1,12 +1,23 @@
 # Installing Google Chrome
+Google Chrome is a web browser similar to Firefox or Internet Explorer. You must be using Google Chrome for the Rooof posting tool to work. This page will explain how to download and install Google Chrome.
 
-[Download the installer file here](https://www.google.com/chrome?brand=CHMO#eula)
+**To download and install the Google Chrome browser, follow these steps:**
 
-A page similar to the one below will be shown.
+1. Click [here](https://www.google.com/chrome/browser/desktop/index.html) to go to the download page for Google Chrome.
+2. Click the blue "Download Chrome" button
+![](chrome17.jpg)
 
-![Terms of service google installer](img/1.png)
+3. Read the terms of service and click "Accept and Install"
+![](chrome18.jpg)
 
-If prompted, click Run.
+4. Once the file has finished downloading in your browser, click it to open. Then click the "Run" button on the pop up.
+![](chrome19.jpg)
+
+5. A box may appear asking if you want to allow the program to make changes to your computer. If this happens, click "Yes"
+6. Google Chrome will now download and install on your computer
+![](chrome20.jpg)
+
+**You have now installed Google Chrome!**
 
 To start Chrome:
 * Windows 7/Vista: A Chrome window opens once everything is set up.
