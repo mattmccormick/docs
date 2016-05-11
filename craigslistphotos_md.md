@@ -24,3 +24,10 @@ Now, when you go to post an ad using Rooof, it give you a photos preview. The po
 - If you want to delete a photo, click "delete"
 - If you want to add more photos, click "Browse" and select the photo from your computer
 - When you are happy with the photos, click the green "OK" button
+
+---
+
+**You may also be interested in:**
+- [Optional Settings](http://docs.rooof.com/rooof_optional_settings.html)
+- [Anatomy of a Post](http://docs.rooof.com/anatomymd.html)
+- [Running Google Chrome](http://docs.rooof.com/runningchrome_md.html)
