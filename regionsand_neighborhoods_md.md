@@ -18,16 +18,16 @@ Neighborhoods are the smaller area within a region. The neighborhood shows up in
 If you consistently post from the same neighborhood and region you can tell Rooof to use the same information each time.
 
 **Follow these steps:**
-1. Click the Rooof icon in the top right corner of your Chrome browser and choose settings
+1. Click the Rooof icon in the top right corner of your Chrome browser and click "**Settings**"
 ![](email change7.jpg)
 
-2. Click the "Show Optional Settings" button
+2. Click the "**Show Optional Settings**" button
 ![](photos2.jpg)
 
 3. Scroll down to the location settings. Here you can set your location and neighborhood to be the same for every ad.
 ![](settings4.jpg)
 
- - Select your region in the "Craigslist Site" area.
+ - Select your region in the "**Craigslist Site**" area.
      - If there is a subarea available, select it if the box appears
  - Enter your neighborhood
      - This will be a searchable keyword and show up in the title brackets
