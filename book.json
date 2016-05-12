@@ -1,9 +1,9 @@
 {
     "plugins": [
-        "sharing"
+        "-sharing"
     ],
     "pluginsConfig": {
-        "sharing": {
+        "-sharing": {
             "facebook": false,
             "twitter": false,
             "google": false,
