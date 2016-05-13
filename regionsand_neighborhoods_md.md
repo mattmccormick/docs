@@ -19,10 +19,8 @@ If you consistently post from the same neighborhood and region you can tell Rooo
 
 **Follow these steps:**
 1. Click the Rooof icon in the top right corner of your Chrome browser and click "**Settings**"
-![](email change7.jpg)
 
 2. Click the "**Show Optional Settings**" button
-![](photos2.jpg)
 
 3. Scroll down to the location settings. Here you can set your location and neighborhood to be the same for every ad.
 ![](settings4.jpg)
