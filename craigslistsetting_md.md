@@ -2,20 +2,26 @@
 This page explains the settings page of your Craigslist account.
 
 <br>
-**How to get to the settings page**
-1. Go to craigslist.org
-2. Log in to your account
-3. Click "**My Account**" on the left side panel
+**To get to your settings page, follow these instructions:**
+1. Go to [craigslist.org](craigslist.org)
+2. Click "**My Account**" on the left side panel
+![](craigslist2.jpg)
+3. Enter your Craigslist credentials and click "**Log In**"
+![](myaccount2.jpg)
+
 4. Click the "**Settings**" tab at the top of the page
+![](craigslist3.jpg)
 
 ---
 ##Settings Options
-**Email Address** - this shows you the current email associated with your account. To change the email, click "http://docs.rooof.com/craigslist_problems.html".<br>
-**Password** - Click "**change password**" to change your password. <br>
-**Forum Handle** - If you want to be identified by a unique handle, click "**add a handle**". This will be displayed if you post on forums on Craigslist.<br>
-**Default Site** - If you have one city you are posting from you can choose to set a default site to save time selecting a city when posting.<br>
-**Stay Logged in For** - Use the drop down menu to choose how long you remained logged into your account. This ranges from 15 minutes to one week. <br>
-**Deactivate This Account** - If you want to deactivate your Craigslist account, click "**deactivate account**".
+![](craigslist4.jpg)
+
+1. **Email Address** - this shows you the current email associated with your account.<br>
+2. **Password** - Click "**change password**" to change your password. <br>
+3. **Forum Handle** - If you want to be identified by a unique handle, click "**add a handle**". This will be displayed if you post on forums on Craigslist.<br>
+4. **Default Site** - If you have one city you are posting from you can choose to set a default site to save time selecting a city when posting.<br>
+5. **Stay Logged in For** - Use the drop down menu to choose how long you remained logged into your account. This ranges from 15 minutes to one week. <br>
+6. **Deactivate This Account** - If you want to deactivate your Craigslist account, click "**deactivate account**".
 
 ---
 **You may also be interested in:**
