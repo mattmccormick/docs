@@ -7,6 +7,7 @@ Follow these instructions:
 2. If you are logged in to Chrome, click the button with your name in the top right corner
 ![](chrome10.jpg)<br>
 If you are not logged in you will see a small icon of a person. Click this and enter your credentials to log in to Chrome.
+![](users1.jpg)
 
 3. Click the "**Switch Person**" button
 ![](chrome11.jpg)<br>
