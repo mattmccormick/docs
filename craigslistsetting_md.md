@@ -27,4 +27,4 @@ This page explains the settings page of your Craigslist account.
 **You may also be interested in:**
 - [Resetting your Password](http://docs.rooof.com/resetcraigslist_password_md.html)
 - [Changing Craigslist Email](http://docs.rooof.com/changecraigslist_email_md.html)
-- [Minimum Required Fields](http://docs.rooof.com/requiredfields_md.html)
+- [Log In to Craigslist](http://docs.rooof.com/loginto_craigslist_md.html)
