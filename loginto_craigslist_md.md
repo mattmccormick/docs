@@ -7,7 +7,13 @@ This page will explain how to log in to your Craigslist account.
 2. Enter your Craigslist credentials and click "**Log In**"
 ![](password8.jpg)
 
-**You are now logged in to your account!**
+**If the log in is successful**, you will be brought to the "My Account" page...
+![](login1.jpg)<br>
+
+From here you can access your postings, drafts, searches, settings, and billing pages.
+
+**If the log in fails**, it will give you an error message and ask you to try again. If you need to reset your password, click the "Forgot Password?" button. If you need help resetting your password, click [this link](http://docs.rooof.com/resetcraigslist_password_md.html) for instructions.
+
 
 ---
 
