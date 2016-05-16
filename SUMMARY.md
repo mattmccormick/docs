@@ -60,5 +60,5 @@
    * Custom Headers/Footers
    * Basic Amenities
    * Software Update
-   * Reset Cache
+   * Clear Cache
 
