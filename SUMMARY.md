@@ -61,4 +61,5 @@
    * Basic Amenities
    * Software Update
    * Clear Cache
+   * Export & Import Settings
 
