@@ -63,4 +63,5 @@
    * Clear Cache
    * Export & Import Settings
    * Over-Posting Protection
+   * In-App Posting Reminders
 
