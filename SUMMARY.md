@@ -53,7 +53,7 @@
    * [Minimum Required Fields](requiredfields_md.md)
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
-   * Craigslist Account Settings
+   * [Craigslist Account Settings](craigslist_account_settings.md)
    * Auto-Renew
    * Auto-Repost
    * Custom Titles
