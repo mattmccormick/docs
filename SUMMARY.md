@@ -58,4 +58,5 @@
    * Auto-Repost
    * Custom Titles
    * Custom Headers/Footers
+   * Basic Amenities
 
