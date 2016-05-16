@@ -59,4 +59,5 @@
    * Custom Titles
    * Custom Headers/Footers
    * Basic Amenities
+   * Software Update
 
