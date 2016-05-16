@@ -57,4 +57,5 @@
    * Auto-Renew
    * Auto-Repost
    * Custom Titles
+   * Custom Headers/Footers
 
