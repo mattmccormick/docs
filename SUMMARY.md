@@ -62,4 +62,5 @@
    * Software Update
    * Clear Cache
    * Export & Import Settings
+   * Over-Posting Protection
 
