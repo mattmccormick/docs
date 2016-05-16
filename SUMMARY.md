@@ -55,4 +55,5 @@
    * [Auto-Renew](auto-renew.md)
    * Craigslist Account Settings
    * Auto-Renew
+   * Auto-Repost
 
