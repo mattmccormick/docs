@@ -1,5 +1,9 @@
 # Rooof Optional Settings
+V6
 
+
+---
+#V5
 This section explains the optional settings page of Rooof. The settings let you have more control of how Rooof will make your ads.
 
 **To access your settings follow these instructions:**
@@ -13,6 +17,10 @@ This section explains the optional settings page of Rooof. The settings let you 
 
 4. Click "**Show Optional Settings**"<br>
 ![](photos2.jpg)
+
+---
+---
+---
 ---
 ##Header and Footer
 ![](settings1.jpg)
