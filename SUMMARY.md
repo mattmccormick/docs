@@ -48,7 +48,6 @@
 * [Your Property & Floorplan Webpage](property_webpage.md)
    * [Finding your Property Website or Floorplan Webpage](findingfloorplan_md.md)
    * [Posting Button](postingbutton_md.md)
-* Craigslist Account Settings
 * [Rooof Settings](settings.md)
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](requiredfields_md.md)
