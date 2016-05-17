@@ -57,7 +57,7 @@
    * [Auto-Renew](auto-renewv6.md)
    * [Auto-Repost](auto-repost.md)
    * [Custom Titles](custom_titles.md)
-   * Custom Headers/Footers
+   * [Custom Headers/Footers](custom_headersfooters.md)
    * Basic Amenities
    * Software Update
    * Clear Cache
