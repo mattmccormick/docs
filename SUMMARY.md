@@ -62,6 +62,6 @@
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
-   * Over-Posting Protection
+   * [Over-Posting Protection](over-posting_protection.md)
    * In-App Posting Reminders
 
