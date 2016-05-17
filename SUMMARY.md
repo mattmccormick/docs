@@ -61,7 +61,7 @@
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
-   * Export & Import Settings
+   * [Export & Import Settings](export_&_import_settings.md)
    * Over-Posting Protection
    * In-App Posting Reminders
 
