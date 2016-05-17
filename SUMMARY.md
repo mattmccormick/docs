@@ -60,7 +60,7 @@
    * [Custom Headers/Footers](custom_headersfooters.md)
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
-   * Clear Cache
+   * [Clear Cache](clear_cache.md)
    * Export & Import Settings
    * Over-Posting Protection
    * In-App Posting Reminders
