@@ -1,2 +1,23 @@
 # Craigslist Account Settings
 
+This page will explain the Craigslist Account Settings page of Rooof's settings.
+
+##Craigslist Credentials
+![](v6settings2.jpg)
+Enter your Craigslist email address and password to allow the Rooof posting tool to log in to your Craigslist account.
+
+---
+
+##Email Visibility
+![](v6settings3.jpg)
+**Anonymize** - Craigslist will create a random email to show when viewers respond to your ads. This option is recommended because it can help cut down on ghosting and flagging.
+
+**Show** - Craigslist will show your actual email to people  responding to your ads.
+
+**Hide** - Craigslist will not allow people to contact you by email to respond to ads. The only option available will be respond by phone.
+
+---
+
+##Account Confirmation
+![](v6settings4.jpg)
+Check this box if you post for more than one property. When checked,  Rooof will ask you each time you post to confirm what Craigslist credentials you want to use to post your ad.
