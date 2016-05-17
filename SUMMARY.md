@@ -56,7 +56,7 @@
    * [Craigslist Account Settings](craigslist_account_settings.md)
    * [Auto-Renew](auto-renewv6.md)
    * [Auto-Repost](auto-repost.md)
-   * Custom Titles
+   * [Custom Titles](custom_titles.md)
    * Custom Headers/Footers
    * Basic Amenities
    * Software Update
