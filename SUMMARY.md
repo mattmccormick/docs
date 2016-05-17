@@ -59,7 +59,7 @@
    * [Custom Titles](custom_titles.md)
    * [Custom Headers/Footers](custom_headersfooters.md)
    * [Basic Amenities](basic_amenities.md)
-   * Software Update
+   * [Software Update](software_update.md)
    * Clear Cache
    * Export & Import Settings
    * Over-Posting Protection
