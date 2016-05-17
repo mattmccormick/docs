@@ -58,7 +58,7 @@
    * [Auto-Repost](auto-repost.md)
    * [Custom Titles](custom_titles.md)
    * [Custom Headers/Footers](custom_headersfooters.md)
-   * Basic Amenities
+   * [Basic Amenities](basic_amenities.md)
    * Software Update
    * Clear Cache
    * Export & Import Settings
