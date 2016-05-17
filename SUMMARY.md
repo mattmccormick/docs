@@ -54,7 +54,7 @@
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
    * [Craigslist Account Settings](craigslist_account_settings.md)
-   * Auto-Renew
+   * [Auto-Renew](auto-renewv6.md)
    * Auto-Repost
    * Custom Titles
    * Custom Headers/Footers
