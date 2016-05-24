@@ -27,7 +27,7 @@ This section explains the optional settings page of Rooof. The settings let you 
 
 Fill in these sections if you want to have the same text at the top or bottom of all ads.
 - Common headers include monthly specials or deals.
-- Common footers include an equality statement or pricing disclaimers.
+- Common footers include an equal housing statement or pricing disclaimers.
 - ---
 
 ##Ask Me Every Time
@@ -53,7 +53,7 @@ If you always post to the same local Craigslist site, then you can tell Rooof to
 ##Contact Information
 ![](settings5.jpg)
 
-If you want Rooof to use different contact information than what is listed on the property website, fill in these fields.
+If you want Rooof to use different contact information than what is listed on the property website, fill in these fields. For example, if you have a separate 800 tracking number that you want to use for your Craigslist ads, enter it in the phone field.
 
 ---
 ##Other
