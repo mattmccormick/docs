@@ -14,8 +14,8 @@ If so, this is the page you will see after you click "**Publish**" on your ad.
 ![](email3.jpg)
 
 4. Enter your phone number and choose voice or text to receive a verification code. Click "**Send Verification Code**" when you are ready.<br>
-![](email4.jpg)
-
+![](email4.jpg)<br>
+Note: This will not work if you use a number with a decision tree (i.e. press 1 for this). You will need to use a cell phone.
 5. You will shortly receive a verification code. Enter it in the box and click "**submit verification code**"
 ![](email5.jpg)
 
