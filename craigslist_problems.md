@@ -33,7 +33,7 @@ Although we may not agree with their reasons, Craigslist viewers have reported f
 ---
 ##Malicious Flagging
 Any user on Craigslist can flag an ad as "prohibited" for any reason. The purpose of the "prohibited" button is to keep Craigslist free of scams, however, this button may be used maliciously. It could be an upset tenant, a former employee, the competition, or anyone else with any motive. It is very difficult to prove if someone is doing this. You may wish to take the following steps to respond to malicious flagging:
-- Make your ads hard to find
+- Make your ads hard to find (go incognito)
      - Remove the property name from ads
      - Remove the address (except on the map)
      - Change the phone number format (e.g. 555 555 1234 instead of (555) 555-1234)
