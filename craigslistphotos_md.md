@@ -5,7 +5,7 @@ When you add photos to your ad, they will be displayed like this:
 The first photo will be displayed large as the feature photo. The rest of the photos are shown as thumbnails for viewers to scroll through.
 
 ##Rooof Photo Settings
-Rooof automactically pulls photos from your website to put in your ad. The photos are always in random order, except the floorplan, which will be last. In each photo, Rooof changes one pixel in each photo but this cannot be seen by the human eye. Both of these features help cut down on flagging. If you would like to review and change the photos, follow these instructions:
+Rooof automactically pulls photos from your website to put in your ad. The photos are always in random order, except the floorplan, which will be last. In each photo, Rooof changes one pixel in each photo but this cannot be seen by the human eye. Both of these features help cut down on flagging. If you would like to review and change the photos before each post, follow these instructions:
 
 1. Click the Rooof icon at the top right corner of Google Chrome, and click the "**Settings**" button
 ![](email change7.jpg)<br>
