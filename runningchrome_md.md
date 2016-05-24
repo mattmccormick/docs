@@ -13,7 +13,7 @@ This page will explain the basic functions of Google Chrome.
 ---
 
 ##Rooof in Chrome
-If you have the Rooof posting tool extension installed, you will be able to see the Rooof logo in the top right hand corner.
+If you have the Rooof posting tool extension installed, you will be able to see the Rooof icon in the top right hand corner.
 ![](chrome2.jpg)
 
 By clicking the logo, you are able to access your settings, or report a problem.
