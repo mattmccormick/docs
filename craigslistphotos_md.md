@@ -16,7 +16,7 @@ Rooof automactically pulls photos from your website to put in your ad. The photo
 3. In the "**Ask me every time**" section, check the "Photos" box
 ![](photos3.jpg)<br>
 
-Now, when you go to post an ad using Rooof, it give you a photos preview. The pop up looks like this:
+Now, when you go to post an ad using Rooof, it gives you a photos preview. The pop up looks like this:
 ![](photos4.jpg)
 
 - The first photo shown will be the featured photo for the ad
