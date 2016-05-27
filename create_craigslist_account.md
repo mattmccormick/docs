@@ -13,7 +13,7 @@ This page will explain how to create a new account on Craigslist.
 
 4. Check your email and click the link provided
 ![](newaccount4.jpg)<br>
-*If you did not recieve an email, make sure you check your junk folder.
+*If you did not receive an email, make sure you check your junk folder.
 
 5. Enter a password for your new account and click "**Submit Password and Log In**"
 ![](newaccount5.jpg)
