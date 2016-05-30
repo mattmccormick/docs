@@ -56,7 +56,7 @@
    * [Credentials](craigslist_account_settings.md)
    * [Configuration](configuration.md)
    * [Renew & Repost](auto-renewv6.md)
-   * [Custom Titles](custom_titles.md)
+   * [Titles](custom_titles.md)
    * [Custom Headers/Footers](custom_headersfooters.md)
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
