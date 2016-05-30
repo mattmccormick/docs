@@ -59,7 +59,7 @@
    * [Titles](custom_titles.md)
    * [Headers & Footers](custom_headersfooters.md)
    * [Floorplans](floorplans.md)
-   * Ad Body
+   * [Ad Body](ad_body.md)
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
