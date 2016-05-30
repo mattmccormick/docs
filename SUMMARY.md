@@ -54,7 +54,7 @@
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
    * [Credentials](craigslist_account_settings.md)
-   * Configuration
+   * [Configuration](configuration.md)
    * [Auto-Renew](auto-renewv6.md)
    * [Auto-Repost](auto-repost.md)
    * [Custom Titles](custom_titles.md)
