@@ -66,5 +66,4 @@
    * [Photos](photos.md)
    * [Reminders](in-app_posting_reminders.md)
    * [Maintenance](maintenance.md)
-   * [Over-Posting Protection](over-posting_protection.md)
 
