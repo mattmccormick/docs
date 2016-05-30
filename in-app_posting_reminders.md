@@ -21,3 +21,9 @@ Set the reminder frequency to how many times a day you need to post. The reminde
 ---
 
 ## Email Reminders
+When you turn on email reminders, Rooof will email you at set intervals throughout the day to remind you to post. For example, if you want to post three times a day you can set a reminder to be emailed at 10:00, 1:00, and 3:00. The reminders have links to your property website's floorplan page, which makes it nice and easy to post an ad.<br>
+
+![](reminder1.jpg)
+
+If you want to make changes to an existing reminder, click "**Manage My Email Reminder**".<br>
+If you want to create a new email reminder, click "**Create New Email Reminder**".
