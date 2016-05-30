@@ -63,10 +63,10 @@
    * [Amenities](basic_amenities.md)
    * [Location & Map](location_&_map.md)
    * [Contact](contact.md)
+   * Photos
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
    * [Over-Posting Protection](over-posting_protection.md)
    * [In-App Posting Reminders](in-app_posting_reminders.md)
-   * Photos
 
