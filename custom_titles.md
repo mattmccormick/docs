@@ -1,4 +1,6 @@
-# Custom Titles
+# Titles
+
+This page will explain the Custom Titles settings.
 ![](v6settings8.jpg)
 
 1. Click this button to toggle the custom titles settings on and off. When set to "**Off**", Rooof will generate custom, unique titles based on the property amenities.
