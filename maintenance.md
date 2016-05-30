@@ -10,6 +10,9 @@ If you need to clear your cache, click "**Clear Cache**".
 
 ---
 
+##Software Update
+
+---
 ##Export & Import Settings
 ![](v6settings14.jpg)
 
