@@ -62,7 +62,7 @@
    * [Ad Body](ad_body.md)
    * [Amenities](basic_amenities.md)
    * [Location & Map](location_&_map.md)
-   * Contact
+   * [Contact](contact.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
