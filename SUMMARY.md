@@ -54,6 +54,7 @@
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
    * [Credentials](craigslist_account_settings.md)
+   * Configuration
    * [Auto-Renew](auto-renewv6.md)
    * [Auto-Repost](auto-repost.md)
    * [Custom Titles](custom_titles.md)
@@ -64,5 +65,4 @@
    * [Export & Import Settings](export_&_import_settings.md)
    * [Over-Posting Protection](over-posting_protection.md)
    * [In-App Posting Reminders](in-app_posting_reminders.md)
-   * Configuration
 
