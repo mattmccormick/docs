@@ -6,7 +6,6 @@ This page will show you how to access your Rooof settings.
 1. Open your Google Chrome browser
 2. **Click the Rooof icon** in the top right corner
 ![](chrome2.jpg)
-
 3. Click the "**Settings**" button
 ![](email change7.jpg)
 
