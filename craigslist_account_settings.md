@@ -1,6 +1,6 @@
 # Credentials
 
-This page will explain the Credentials page of Rooof's settings.
+This page will explain the Credentials settings page.
 
 ##Craigslist Credentials
 ![](v6settings2.jpg)
