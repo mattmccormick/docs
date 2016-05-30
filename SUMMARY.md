@@ -57,7 +57,7 @@
    * [Configuration](configuration.md)
    * [Renew & Repost](auto-renewv6.md)
    * [Titles](custom_titles.md)
-   * [Custom Headers/Footers](custom_headersfooters.md)
+   * [Headers & Footers](custom_headersfooters.md)
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
