@@ -20,3 +20,8 @@ To import settings from a saved export file, click "**Import Settings**". This w
 ---
 
 ##Install This Posting Tool on a Different Computer
+
+
+---
+
+##Serial Number
