@@ -65,7 +65,7 @@
    * [Contact](contact.md)
    * [Photos](photos.md)
    * [Reminders](in-app_posting_reminders.md)
-   * Maintenance
+   * [Maintenance](maintenance.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
