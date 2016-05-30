@@ -1,5 +1,9 @@
 # Reminders
 
+##Over-Posting Protection
+
+
+---
 ## In-App Posting Reminders
 
 Rooof offers in-app reminders to post. These are especially helpful if you need to post a certain number of times each day.
