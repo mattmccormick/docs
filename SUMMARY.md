@@ -58,7 +58,7 @@
    * [Renew & Repost](auto-renewv6.md)
    * [Titles](custom_titles.md)
    * [Headers & Footers](custom_headersfooters.md)
-   * Floorplans
+   * [Floorplans](floorplans.md)
    * [Basic Amenities](basic_amenities.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
