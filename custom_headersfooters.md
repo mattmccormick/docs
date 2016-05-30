@@ -1,4 +1,6 @@
 # Custom Headers/Footers
+This page will explain the headers and footers settings page.
+
 The custom headers/footers section allows you to enter text that will appear at the top or bottom of all your ads.
 ![](v6settings9.jpg)
 
