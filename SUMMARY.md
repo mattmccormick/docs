@@ -63,7 +63,7 @@
    * [Amenities](basic_amenities.md)
    * [Location & Map](location_&_map.md)
    * [Contact](contact.md)
-   * Photos
+   * [Photos](photos.md)
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
