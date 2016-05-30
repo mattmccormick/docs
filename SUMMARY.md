@@ -53,7 +53,7 @@
    * [Minimum Required Fields](requiredfields_md.md)
    * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
-   * [Craigslist Account Settings](craigslist_account_settings.md)
+   * [Credentials](craigslist_account_settings.md)
    * [Auto-Renew](auto-renewv6.md)
    * [Auto-Repost](auto-repost.md)
    * [Custom Titles](custom_titles.md)
