@@ -1,10 +1,10 @@
-# Craigslist Account Settings
+# Credentials
 
-This page will explain the Craigslist Account Settings page of Rooof's settings.
+This page will explain the Credentials page of Rooof's settings.
 
 ##Craigslist Credentials
 ![](v6settings2.jpg)
-Enter your Craigslist email address and password to allow the Rooof posting tool to log in to your Craigslist account.
+Enter your Craigslist email address and password to allow Rooof to log in to your Craigslist account.
 
 ---
 
