@@ -48,7 +48,7 @@
 * [Your Property & Floorplan Webpage](property_webpage.md)
    * [Finding your Property Website or Floorplan Webpage](findingfloorplan_md.md)
    * [Posting Button](postingbutton_md.md)
-* [Rooof Settings](settings.md)
+* [Contact](settings.md)
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](requiredfields_md.md)
    * [Optional Settings](rooof_optional_settings.md)
