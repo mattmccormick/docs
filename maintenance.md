@@ -31,8 +31,14 @@ To import settings from a saved export file, click "**Import Settings**". This w
 ---
 
 ##Install This Posting Tool on a Different Computer
+![](maintenance1.jpg)<br>
 
+If you need to install the Rooof posting tool on another computer, click "**Get Install Link**" to get the link to the Chrome Webstore.
 
 ---
 
 ##Serial Number
+
+![](serial.jpg)
+
+The serial number help identify your unique computer and posting code. We may ask you for the serial number during a support situation in order to help you better.
