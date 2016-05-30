@@ -61,10 +61,10 @@
    * [Floorplans](floorplans.md)
    * [Ad Body](ad_body.md)
    * [Amenities](basic_amenities.md)
+   * Location & Map
    * [Software Update](software_update.md)
    * [Clear Cache](clear_cache.md)
    * [Export & Import Settings](export_&_import_settings.md)
    * [Over-Posting Protection](over-posting_protection.md)
    * [In-App Posting Reminders](in-app_posting_reminders.md)
-   * Location & Map
 
