@@ -1,5 +1,5 @@
 # Auto-Renew
-This page will explain the Auto-Renew settings.
+This page will explain the Auto-Renew and Auto-Repost settings.
 
 ![](v6settings5.jpg)
 
