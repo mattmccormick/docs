@@ -5,6 +5,7 @@ When you initially post your ad, it is at the top on the first page of ad listin
 Renewing keeps your ads at the top of the page and ready to be seen by potential residents. Many viewers do not go past the first few pages of listings, and renewing makes sure your ads are seen by as many people as possible.
 This page will explain the Auto-Renew and Auto-Repost settings.
 
+---
 ##Auto-Renew
 
 ![](v6settings5.jpg)
