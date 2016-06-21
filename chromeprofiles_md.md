@@ -18,6 +18,7 @@ If you are not logged in you will see a small icon of a person. Click this and e
 5. Now you have two Chrome screens open, allowing you to work from two different accounts at the same time
 ![](chrome13.jpg)
 
+
 ---
 
 **You may also be interested in:**
