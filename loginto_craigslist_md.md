@@ -12,7 +12,9 @@ This page will explain how to log in to your Craigslist account.
 
 From here you can access your postings, drafts, searches, settings, and billing pages.
 
-**If the log in fails**, it will give you an error message and ask you to try again. If you need to reset your password, click the "Forgot Password?" button. If you need help resetting your password, click [this link](http://docs.rooof.com/resetcraigslist_password_md.html) for instructions.
+**If the log in fails**, it will give you an error message and ask you to try again. 
+![](wrongpassword.jpg)<br>
+If you need to reset your password, click the "Forgot Password?" button. If you need help resetting your password, click [this link](http://docs.rooof.com/resetcraigslist_password_md.html) for instructions.
 
 
 ---
