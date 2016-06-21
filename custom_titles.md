@@ -5,7 +5,7 @@ This page will explain the Custom Titles settings.
 
 1. Click this button to toggle the custom titles settings on and off. When set to "**Off**", Rooof will generate custom, unique titles based on the property amenities.
 
-2. These options allow you to choose how you use the custom title settings.
+2. These options allow you to choose how you use the custom title settings.<br>
 **Rotate through my titles in the order below** - This option will cycle through the custom titles you have written below.<br>
 **Let me choose from my list below** - This option will allow you to choose from the list of your custom titles each time you post an ad.<br>
 **I will write a new title every time** - This option will prompt you to write a title each time you post an ad.
