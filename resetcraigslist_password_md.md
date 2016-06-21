@@ -7,7 +7,7 @@ This page gives you steps to change your password in two situations.
 **If you have forgotten your Craigslist password, follow these steps:**
 
 1. Go to [craigslist.org](craigslist.org) and on the left panel click "**my account**"
-![](password1.jpg)
+![](newaccount1.jpg)
 
 2. Click the "**Forgot Password?**" button in the bottom right corner of the "**Log in to your craigslist account**"
 ![](password2.jpg)
@@ -34,7 +34,7 @@ This page gives you steps to change your password in two situations.
 
 **To change your Craigslist password, follow these steps:**
 1. Go to [craigslist.org](craigslist.org) and on the left side panel click "**my account**"
-![](password1.jpg)
+![](newaccount1.jpg)
 
 2. Enter your credentials and click "**Log In**"
 ![](password8.jpg)
