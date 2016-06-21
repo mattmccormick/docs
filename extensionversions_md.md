@@ -5,6 +5,15 @@ This page will show you how to check the version of your Chrome extensions.
 **Follow these instructions:**
 
 1. Open your Google Chrome browser
+2. Click the menu button in the top right corner of your browser
+![](update1.jpg)
+
+3. In the "**More Tools**" menu, click "**Extensions**"
+![](update2.jpg)
+
+4. Find the extension you want to check, and the version number is listed beside the title.
+![](versioncheck1.jpg)
+
 
 ---
 **You may also find interesting**
