@@ -2,7 +2,7 @@
 If you want to see the ads you have posted, follow these steps:
 1. Go to [craigslist.org](craigslist.org)
 2. Click the "**My Account**" button on the left side panel
-![](email change2.jpg)
+![](newaccount1.jpg)
 3. Enter your Craigslist credentials and click "**Log In**"
 4. The page will default to the postings tab of your account. From here you see a list of your active and inactive ads.
 ![](postedads1.jpg)
