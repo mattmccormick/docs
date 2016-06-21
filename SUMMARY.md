@@ -51,7 +51,6 @@
 * [Rooof Settings](settings.md)
    * [Opening Settings](openingsettings_md.md)
    * [Minimum Required Fields](requiredfields_md.md)
-   * [Optional Settings](rooof_optional_settings.md)
    * [Auto-Renew](auto-renew.md)
    * [Credentials](craigslist_account_settings.md)
    * [Configuration](configuration.md)
