@@ -13,7 +13,6 @@
    * [Craigslist Lifecycle](craigslistlifecycle_md.md)
        * [Publish](publish.md)
        * [Confirm](confirm.md)
-       * [Phone Verify](phone_verify.md)
        * [Edit](edit.md)
        * [Delete](delete.md)
        * [Renew](renew.md)
