@@ -11,7 +11,6 @@
    * [Minimum Required Fields](requiredfields_md.md)
    * [Posting](postmanually_md.md)
    * [Craigslist Lifecycle](craigslistlifecycle_md.md)
-       * [Draft](draft.md)
        * [Publish](publish.md)
        * [Confirm](confirm.md)
        * [Phone Verify](phone_verify.md)
