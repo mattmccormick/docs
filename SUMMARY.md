@@ -29,7 +29,7 @@
    * [Craigslist Settings](craigslistsetting_md.md)
    * [Edit](edit.md)
    * [Finding your Posted Ads](findingyour_posted_ads_md.md)
-   * [Confirm](confirm.md)
+   * [Email Verification](confirm.md)
    * [Phone Verification](missing_ads.md)
 * [Chrome Browser](chromemd.md)
    * [Installation](installing_google_chrome.md)
