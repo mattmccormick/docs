@@ -12,7 +12,6 @@
    * [Posting](postmanually_md.md)
    * [Craigslist Lifecycle](craigslistlifecycle_md.md)
        * [Publish](publish.md)
-       * [Renew](renew.md)
        * [Repost](repost.md)
        * [Receiving Inquiries](receiving_inquiries.md)
    * [Craigslist Problems](craigslist_problems.md)
