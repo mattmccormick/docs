@@ -11,7 +11,6 @@
    * [Minimum Required Fields](requiredfields_md.md)
    * [Posting](postmanually_md.md)
    * [Craigslist Lifecycle](craigslistlifecycle_md.md)
-       * [Publish](publish.md)
    * [Craigslist Problems](craigslist_problems.md)
        * [Prohibited & Undesired Content](craigslist_prohibited_content.md)
        * [Flagging](flagggin.md)
