@@ -21,7 +21,7 @@ This may occur for any of the following reasons:
 ##User Flagging
 Although we may not agree with their reasons, Craigslist viewers have reported flagging ads for the following reasons:
 - Disgruntled tenant, former employee, or competitor
-- Overusing scammy words (such as "free" or "deal" making the ad seem too good to be true
+- Overusing scammy words (such as "free" or "deal" making the ad seem too good to be true)
 - Missing phone number or email address
 - Too many large paragraphs in an ad
 - Not enough factual or critical information, or this information is hard to find
